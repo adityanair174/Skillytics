@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+skillytics/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+.vision/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large video files (exclude from git - use Git LFS if needed)
+*.mp4
+*.mov
+*.MOV
+*.avi
+*.mkv
+
+# Large image files (keep calibration images, exclude debug/renders)
+data/**/debug*/
+data/output/
+data/**/*.mp4
+data/**/*.mov
+data/**/*.MOV
+data/**/*.avi
+
+# Keep calibration data (small files)
+!data/calibration/**/*.npz
+!data/calibration/**/*.npy
+!data/calibration/**/*.jpg
+!data/calibration_new/**/*.npz
+!data/calibration_new/**/*.npy
+!data/calibration_new/**/*.jpg
+!data/datasets/**/*.yaml
+!data/datasets/**/*.json
+!data/datasets/**/*.txt
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
