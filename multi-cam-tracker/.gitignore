@@ -1,0 +1,31 @@
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Large JSON files (tracking data)
+Association/inputs/*.json
+Association/outputs/*_global.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

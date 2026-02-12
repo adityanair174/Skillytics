@@ -1,0 +1,9032 @@
+{
+  "1": {
+    "left_track_id": 12,
+    "left_count": 3330,
+    "right_track_id": 10,
+    "right_count": 3349
+  },
+  "2": {
+    "left_track_id": 8,
+    "left_count": 2181,
+    "right_track_id": 7,
+    "right_count": 3759
+  },
+  "3": {
+    "left_track_id": 5,
+    "left_count": 632,
+    "right_track_id": 3,
+    "right_count": 734
+  },
+  "4": {
+    "left_track_id": 7,
+    "left_count": 1680,
+    "right_track_id": 8,
+    "right_count": 1821
+  },
+  "5": {
+    "left_track_id": 6,
+    "left_count": 3341,
+    "right_track_id": 9,
+    "right_count": 3361
+  },
+  "6": {
+    "left_track_id": 2,
+    "left_count": 3789,
+    "right_track_id": 6,
+    "right_count": 3373
+  },
+  "7": {
+    "left_track_id": 1,
+    "left_count": 5096,
+    "right_track_id": 1,
+    "right_count": 5096
+  },
+  "8": {
+    "left_track_id": 11,
+    "left_count": 3309,
+    "right_track_id": 13,
+    "right_count": 3875
+  },
+  "9": {
+    "left_track_id": 3,
+    "left_count": 6755,
+    "right_track_id": 4,
+    "right_count": 4083
+  },
+  "10": {
+    "left_track_id": 13,
+    "left_count": 16,
+    "right_track_id": 14,
+    "right_count": 11
+  },
+  "11": {
+    "left_track_id": 19,
+    "left_count": 2864,
+    "right_track_id": 5,
+    "right_count": 3832
+  },
+  "12": {
+    "left_track_id": 21,
+    "left_count": 43,
+    "right_track_id": 16,
+    "right_count": 403
+  },
+  "13": {
+    "left_track_id": 26,
+    "left_count": 33,
+    "right_track_id": 22,
+    "right_count": 64
+  },
+  "14": {
+    "left_track_id": 27,
+    "left_count": 758,
+    "right_track_id": 11,
+    "right_count": 2364
+  },
+  "15": {
+    "left_track_id": 28,
+    "left_count": 1130,
+    "right_track_id": 24,
+    "right_count": 1100
+  },
+  "16": {
+    "left_track_id": 30,
+    "left_count": 228,
+    "right_track_id": 31,
+    "right_count": 625
+  },
+  "17": {
+    "left_track_id": 33,
+    "left_count": 1038,
+    "right_track_id": 39,
+    "right_count": 841
+  },
+  "18": {
+    "left_track_id": 34,
+    "left_count": 562,
+    "right_track_id": 33,
+    "right_count": 1018
+  },
+  "19": {
+    "left_track_id": 36,
+    "left_count": 760,
+    "right_track_id": 36,
+    "right_count": 916
+  },
+  "20": {
+    "left_track_id": 37,
+    "left_count": 119,
+    "right_track_id": 37,
+    "right_count": 238
+  },
+  "21": {
+    "left_track_id": 41,
+    "left_count": 239,
+    "right_track_id": 45,
+    "right_count": 412
+  },
+  "22": {
+    "left_track_id": 43,
+    "left_count": 15,
+    "right_track_id": 46,
+    "right_count": 18
+  },
+  "23": {
+    "left_track_id": 45,
+    "left_count": 62,
+    "right_track_id": 48,
+    "right_count": 84
+  },
+  "24": {
+    "left_track_id": 51,
+    "left_count": 113,
+    "right_track_id": 49,
+    "right_count": 119
+  },
+  "25": {
+    "left_track_id": 52,
+    "left_count": 197,
+    "right_track_id": 50,
+    "right_count": 163
+  },
+  "26": {
+    "left_track_id": 53,
+    "left_count": 180,
+    "right_track_id": 51,
+    "right_count": 195
+  },
+  "27": {
+    "left_track_id": 54,
+    "left_count": 968,
+    "right_track_id": 59,
+    "right_count": 897
+  },
+  "28": {
+    "left_track_id": 57,
+    "left_count": 810,
+    "right_track_id": 56,
+    "right_count": 874
+  },
+  "29": {
+    "left_track_id": 59,
+    "left_count": 59,
+    "right_track_id": 57,
+    "right_count": 107
+  },
+  "30": {
+    "left_track_id": 58,
+    "left_count": 843,
+    "right_track_id": 55,
+    "right_count": 450
+  },
+  "31": {
+    "left_track_id": 61,
+    "left_count": 364,
+    "right_track_id": 58,
+    "right_count": 398
+  },
+  "32": {
+    "left_track_id": 62,
+    "left_count": 709,
+    "right_track_id": 17,
+    "right_count": 4309
+  },
+  "33": {
+    "left_track_id": 63,
+    "left_count": 189,
+    "right_track_id": 61,
+    "right_count": 237
+  },
+  "34": {
+    "left_track_id": 64,
+    "left_count": 1034,
+    "right_track_id": 145,
+    "right_count": 553
+  },
+  "35": {
+    "left_track_id": 65,
+    "left_count": 5,
+    "right_track_id": 66,
+    "right_count": 21
+  },
+  "36": {
+    "left_track_id": 67,
+    "left_count": 542,
+    "right_track_id": 63,
+    "right_count": 703
+  },
+  "37": {
+    "left_track_id": 69,
+    "left_count": 1102,
+    "right_track_id": 69,
+    "right_count": 1102
+  },
+  "38": {
+    "left_track_id": 9,
+    "left_count": 7372,
+    "right_track_id": 433,
+    "right_count": 314
+  },
+  "39": {
+    "left_track_id": 77,
+    "left_count": 487,
+    "right_track_id": 91,
+    "right_count": 903
+  },
+  "40": {
+    "left_track_id": 173,
+    "left_count": 965,
+    "right_track_id": 92,
+    "right_count": 1561
+  },
+  "41": {
+    "left_track_id": 175,
+    "left_count": 2748,
+    "right_track_id": 221,
+    "right_count": 2839
+  },
+  "42": {
+    "left_track_id": 184,
+    "left_count": 853,
+    "right_track_id": 223,
+    "right_count": 2763
+  },
+  "43": {
+    "left_track_id": 185,
+    "left_count": 29,
+    "right_track_id": 225,
+    "right_count": 34
+  },
+  "44": {
+    "left_track_id": 186,
+    "left_count": 163,
+    "right_track_id": 206,
+    "right_count": 362
+  },
+  "45": {
+    "left_track_id": 198,
+    "left_count": 602,
+    "right_track_id": 226,
+    "right_count": 822
+  },
+  "46": {
+    "left_track_id": 253,
+    "left_count": 704,
+    "right_track_id": 135,
+    "right_count": 1640
+  },
+  "47": {
+    "left_track_id": 254,
+    "left_count": 89,
+    "right_track_id": 296,
+    "right_count": 88
+  },
+  "48": {
+    "left_track_id": 255,
+    "left_count": 639,
+    "right_track_id": 304,
+    "right_count": 645
+  },
+  "49": {
+    "left_track_id": 256,
+    "left_count": 1255,
+    "right_track_id": 305,
+    "right_count": 1170
+  },
+  "50": {
+    "left_track_id": 258,
+    "left_count": 370,
+    "right_track_id": 319,
+    "right_count": 376
+  },
+  "51": {
+    "left_track_id": 261,
+    "left_count": 169,
+    "right_track_id": 211,
+    "right_count": 1000
+  },
+  "52": {
+    "left_track_id": 262,
+    "left_count": 624,
+    "right_track_id": 320,
+    "right_count": 637
+  },
+  "53": {
+    "left_track_id": 264,
+    "left_count": 2060,
+    "right_track_id": 318,
+    "right_count": 3403
+  },
+  "54": {
+    "left_track_id": 276,
+    "left_count": 164,
+    "right_track_id": 325,
+    "right_count": 109
+  },
+  "55": {
+    "left_track_id": 278,
+    "left_count": 2016,
+    "right_track_id": 444,
+    "right_count": 938
+  },
+  "56": {
+    "left_track_id": 277,
+    "left_count": 1468,
+    "right_track_id": 328,
+    "right_count": 1472
+  },
+  "57": {
+    "left_track_id": 279,
+    "left_count": 1039,
+    "right_track_id": 442,
+    "right_count": 90
+  },
+  "58": {
+    "left_track_id": 327,
+    "left_count": 619,
+    "right_track_id": 369,
+    "right_count": 625
+  },
+  "59": {
+    "left_track_id": 331,
+    "left_count": 993,
+    "right_track_id": 324,
+    "right_count": 2741
+  },
+  "60": {
+    "left_track_id": 358,
+    "left_count": 1213,
+    "right_track_id": 299,
+    "right_count": 2493
+  },
+  "61": {
+    "left_track_id": 384,
+    "left_count": 2404,
+    "right_track_id": 414,
+    "right_count": 2275
+  },
+  "62": {
+    "left_track_id": 409,
+    "left_count": 71,
+    "right_track_id": 439,
+    "right_count": 53
+  },
+  "63": {
+    "left_track_id": 406,
+    "left_count": 594,
+    "right_track_id": 438,
+    "right_count": 246
+  },
+  "64": {
+    "left_track_id": 411,
+    "left_count": 724,
+    "right_track_id": 479,
+    "right_count": 504
+  },
+  "65": {
+    "left_track_id": 412,
+    "left_count": 232,
+    "right_track_id": 443,
+    "right_count": 255
+  },
+  "66": {
+    "left_track_id": 413,
+    "left_count": 799,
+    "right_track_id": 492,
+    "right_count": 660
+  },
+  "67": {
+    "left_track_id": 460,
+    "left_count": 609,
+    "right_track_id": 441,
+    "right_count": 963
+  },
+  "68": {
+    "left_track_id": 463,
+    "left_count": 17,
+    "right_track_id": 499,
+    "right_count": 16
+  },
+  "69": {
+    "left_track_id": 523,
+    "left_count": 1004,
+    "right_track_id": 556,
+    "right_count": 1030
+  },
+  "70": {
+    "left_track_id": 547,
+    "left_count": 746,
+    "right_track_id": 580,
+    "right_count": 772
+  },
+  "71": {
+    "left_track_id": 548,
+    "left_count": 4920,
+    "right_track_id": 581,
+    "right_count": 2005
+  },
+  "72": {
+    "left_track_id": 550,
+    "left_count": 1490,
+    "right_track_id": 582,
+    "right_count": 3242
+  },
+  "73": {
+    "left_track_id": 581,
+    "left_count": 315,
+    "right_track_id": 576,
+    "right_count": 873
+  },
+  "74": {
+    "left_track_id": 579,
+    "left_count": 316,
+    "right_track_id": 579,
+    "right_count": 667
+  },
+  "75": {
+    "left_track_id": 580,
+    "left_count": 543,
+    "right_track_id": 611,
+    "right_count": 527
+  },
+  "76": {
+    "left_track_id": 583,
+    "left_count": 467,
+    "right_track_id": 614,
+    "right_count": 645
+  },
+  "77": {
+    "left_track_id": 586,
+    "left_count": 1896,
+    "right_track_id": 615,
+    "right_count": 1922
+  },
+  "78": {
+    "left_track_id": 588,
+    "left_count": 111,
+    "right_track_id": 612,
+    "right_count": 445
+  },
+  "79": {
+    "left_track_id": 590,
+    "left_count": 207,
+    "right_track_id": 620,
+    "right_count": 204
+  },
+  "80": {
+    "left_track_id": 591,
+    "left_count": 969,
+    "right_track_id": 622,
+    "right_count": 1056
+  },
+  "81": {
+    "left_track_id": 592,
+    "left_count": 2466,
+    "right_track_id": 619,
+    "right_count": 2701
+  },
+  "82": {
+    "left_track_id": 597,
+    "left_count": 128,
+    "right_track_id": 630,
+    "right_count": 730
+  },
+  "83": {
+    "left_track_id": 608,
+    "left_count": 2153,
+    "right_track_id": 639,
+    "right_count": 864
+  },
+  "84": {
+    "left_track_id": 612,
+    "left_count": 1238,
+    "right_track_id": 764,
+    "right_count": 494
+  },
+  "85": {
+    "left_track_id": 613,
+    "left_count": 3349,
+    "right_track_id": 663,
+    "right_count": 2700
+  },
+  "86": {
+    "left_track_id": 615,
+    "left_count": 1407,
+    "right_track_id": 665,
+    "right_count": 1723
+  },
+  "87": {
+    "left_track_id": 624,
+    "left_count": 17,
+    "right_track_id": 712,
+    "right_count": 25
+  },
+  "88": {
+    "left_track_id": 625,
+    "left_count": 1426,
+    "right_track_id": 664,
+    "right_count": 1861
+  },
+  "89": {
+    "left_track_id": 630,
+    "left_count": 998,
+    "right_track_id": 662,
+    "right_count": 1530
+  },
+  "90": {
+    "left_track_id": 627,
+    "left_count": 496,
+    "right_track_id": 763,
+    "right_count": 388
+  },
+  "91": {
+    "left_track_id": 713,
+    "left_count": 364,
+    "right_track_id": 783,
+    "right_count": 484
+  },
+  "92": {
+    "left_track_id": 730,
+    "left_count": 14,
+    "right_track_id": 846,
+    "right_count": 14
+  },
+  "93": {
+    "left_track_id": 731,
+    "left_count": 1960,
+    "right_track_id": 929,
+    "right_count": 1701
+  },
+  "94": {
+    "left_track_id": 796,
+    "left_count": 523,
+    "right_track_id": 928,
+    "right_count": 661
+  },
+  "95": {
+    "left_track_id": 806,
+    "left_count": 29,
+    "right_track_id": 935,
+    "right_count": 26
+  },
+  "96": {
+    "left_track_id": 810,
+    "left_count": 865,
+    "right_track_id": 849,
+    "right_count": 586
+  },
+  "97": {
+    "left_track_id": 845,
+    "left_count": 428,
+    "right_track_id": 999,
+    "right_count": 523
+  },
+  "98": {
+    "left_track_id": 860,
+    "left_count": 1057,
+    "right_track_id": 818,
+    "right_count": 3310
+  },
+  "99": {
+    "left_track_id": 848,
+    "left_count": 694,
+    "right_track_id": 1028,
+    "right_count": 578
+  },
+  "100": {
+    "left_track_id": 872,
+    "left_count": 1386,
+    "right_track_id": 1188,
+    "right_count": 504
+  },
+  "101": {
+    "left_track_id": 875,
+    "left_count": 906,
+    "right_track_id": 1057,
+    "right_count": 904
+  },
+  "102": {
+    "left_track_id": 933,
+    "left_count": 355,
+    "right_track_id": 1047,
+    "right_count": 971
+  },
+  "103": {
+    "left_track_id": 994,
+    "left_count": 782,
+    "right_track_id": 1166,
+    "right_count": 708
+  },
+  "104": {
+    "left_track_id": 1001,
+    "left_count": 331,
+    "right_track_id": 1167,
+    "right_count": 331
+  },
+  "105": {
+    "left_track_id": 1016,
+    "left_count": 398,
+    "right_track_id": 1007,
+    "right_count": 1538
+  },
+  "106": {
+    "left_track_id": 1024,
+    "left_count": 2991,
+    "right_track_id": 1183,
+    "right_count": 1707
+  },
+  "107": {
+    "left_track_id": 1054,
+    "left_count": 61,
+    "right_track_id": 1207,
+    "right_count": 143
+  },
+  "108": {
+    "left_track_id": 1059,
+    "left_count": 12,
+    "right_track_id": 1214,
+    "right_count": 23
+  },
+  "109": {
+    "left_track_id": 1060,
+    "left_count": 168,
+    "right_track_id": 1215,
+    "right_count": 176
+  },
+  "110": {
+    "left_track_id": 1102,
+    "left_count": 1050,
+    "right_track_id": 616,
+    "right_count": 5531
+  },
+  "111": {
+    "left_track_id": 1105,
+    "left_count": 902,
+    "right_track_id": 1285,
+    "right_count": 935
+  },
+  "112": {
+    "left_track_id": 1107,
+    "left_count": 1319,
+    "right_track_id": 1256,
+    "right_count": 1727
+  },
+  "113": {
+    "left_track_id": 1108,
+    "left_count": 580,
+    "right_track_id": 1292,
+    "right_count": 586
+  },
+  "114": {
+    "left_track_id": 1109,
+    "left_count": 1828,
+    "right_track_id": 1217,
+    "right_count": 963
+  },
+  "115": {
+    "left_track_id": 1112,
+    "left_count": 739,
+    "right_track_id": 1290,
+    "right_count": 627
+  },
+  "116": {
+    "left_track_id": 1113,
+    "left_count": 1103,
+    "right_track_id": 1298,
+    "right_count": 1077
+  },
+  "117": {
+    "left_track_id": 1114,
+    "left_count": 1267,
+    "right_track_id": 1287,
+    "right_count": 1998
+  },
+  "118": {
+    "left_track_id": 1116,
+    "left_count": 246,
+    "right_track_id": 1301,
+    "right_count": 244
+  },
+  "119": {
+    "left_track_id": 1119,
+    "left_count": 815,
+    "right_track_id": 1299,
+    "right_count": 1124
+  },
+  "120": {
+    "left_track_id": 1121,
+    "left_count": 5564,
+    "right_track_id": 1574,
+    "right_count": 218
+  },
+  "121": {
+    "left_track_id": 1120,
+    "left_count": 211,
+    "right_track_id": 1303,
+    "right_count": 193
+  },
+  "122": {
+    "left_track_id": 1122,
+    "left_count": 1563,
+    "right_track_id": 1344,
+    "right_count": 1285
+  },
+  "123": {
+    "left_track_id": 1125,
+    "left_count": 99,
+    "right_track_id": 1310,
+    "right_count": 99
+  },
+  "124": {
+    "left_track_id": 1164,
+    "left_count": 125,
+    "right_track_id": 1341,
+    "right_count": 304
+  },
+  "125": {
+    "left_track_id": 1174,
+    "left_count": 1031,
+    "right_track_id": 1345,
+    "right_count": 478
+  },
+  "126": {
+    "left_track_id": 1180,
+    "left_count": 20,
+    "right_track_id": 1350,
+    "right_count": 16
+  },
+  "127": {
+    "left_track_id": 1181,
+    "left_count": 1766,
+    "right_track_id": 1351,
+    "right_count": 2469
+  },
+  "128": {
+    "left_track_id": 1182,
+    "left_count": 788,
+    "right_track_id": 1347,
+    "right_count": 1421
+  },
+  "129": {
+    "left_track_id": 1198,
+    "left_count": 11,
+    "right_track_id": 1378,
+    "right_count": 17
+  },
+  "130": {
+    "left_track_id": 1199,
+    "left_count": 2436,
+    "right_track_id": 1433,
+    "right_count": 1072
+  },
+  "131": {
+    "left_track_id": 1220,
+    "left_count": 1093,
+    "right_track_id": 1401,
+    "right_count": 1226
+  },
+  "132": {
+    "left_track_id": 1265,
+    "left_count": 946,
+    "right_track_id": 1404,
+    "right_count": 1045
+  },
+  "133": {
+    "left_track_id": 1266,
+    "left_count": 13,
+    "right_track_id": 1428,
+    "right_count": 12
+  },
+  "134": {
+    "left_track_id": 1269,
+    "left_count": 11,
+    "right_track_id": 1432,
+    "right_count": 25
+  },
+  "135": {
+    "left_track_id": 1224,
+    "left_count": 422,
+    "right_track_id": 1436,
+    "right_count": 233
+  },
+  "136": {
+    "left_track_id": 1270,
+    "left_count": 254,
+    "right_track_id": 1439,
+    "right_count": 130
+  },
+  "137": {
+    "left_track_id": 1272,
+    "left_count": 4074,
+    "right_track_id": 1645,
+    "right_count": 1608
+  },
+  "138": {
+    "left_track_id": 1275,
+    "left_count": 62,
+    "right_track_id": 1442,
+    "right_count": 69
+  },
+  "139": {
+    "left_track_id": 1271,
+    "left_count": 1839,
+    "right_track_id": 1443,
+    "right_count": 1706
+  },
+  "140": {
+    "left_track_id": 1276,
+    "left_count": 563,
+    "right_track_id": 1444,
+    "right_count": 1301
+  },
+  "141": {
+    "left_track_id": 1309,
+    "left_count": 15,
+    "right_track_id": 1474,
+    "right_count": 18
+  },
+  "142": {
+    "left_track_id": 1306,
+    "left_count": 1109,
+    "right_track_id": 1479,
+    "right_count": 790
+  },
+  "143": {
+    "left_track_id": 1314,
+    "left_count": 892,
+    "right_track_id": 1438,
+    "right_count": 1464
+  },
+  "144": {
+    "left_track_id": 1317,
+    "left_count": 1377,
+    "right_track_id": 1483,
+    "right_count": 1332
+  },
+  "145": {
+    "left_track_id": 1335,
+    "left_count": 265,
+    "right_track_id": 1504,
+    "right_count": 486
+  },
+  "146": {
+    "left_track_id": 1365,
+    "left_count": 577,
+    "right_track_id": 1531,
+    "right_count": 554
+  },
+  "147": {
+    "left_track_id": 1374,
+    "left_count": 756,
+    "right_track_id": 1356,
+    "right_count": 3355
+  },
+  "148": {
+    "left_track_id": 1411,
+    "left_count": 15,
+    "right_track_id": 1568,
+    "right_count": 14
+  },
+  "149": {
+    "left_track_id": 1414,
+    "left_count": 89,
+    "right_track_id": 1553,
+    "right_count": 192
+  },
+  "150": {
+    "left_track_id": 1412,
+    "left_count": 468,
+    "right_track_id": 1571,
+    "right_count": 911
+  },
+  "151": {
+    "left_track_id": 1420,
+    "left_count": 324,
+    "right_track_id": 1575,
+    "right_count": 309
+  },
+  "152": {
+    "left_track_id": 1453,
+    "left_count": 290,
+    "right_track_id": 1585,
+    "right_count": 325
+  },
+  "153": {
+    "left_track_id": 1454,
+    "left_count": 1158,
+    "right_track_id": 1607,
+    "right_count": 2655
+  },
+  "154": {
+    "left_track_id": 1455,
+    "left_count": 1317,
+    "right_track_id": 1626,
+    "right_count": 1879
+  },
+  "155": {
+    "left_track_id": 1456,
+    "left_count": 743,
+    "right_track_id": 1613,
+    "right_count": 735
+  },
+  "156": {
+    "left_track_id": 1459,
+    "left_count": 564,
+    "right_track_id": 1614,
+    "right_count": 692
+  },
+  "157": {
+    "left_track_id": 1460,
+    "left_count": 776,
+    "right_track_id": 1608,
+    "right_count": 1024
+  },
+  "158": {
+    "left_track_id": 1463,
+    "left_count": 1043,
+    "right_track_id": 1618,
+    "right_count": 1219
+  },
+  "159": {
+    "left_track_id": 1467,
+    "left_count": 262,
+    "right_track_id": 1620,
+    "right_count": 158
+  },
+  "160": {
+    "left_track_id": 1468,
+    "left_count": 810,
+    "right_track_id": 1621,
+    "right_count": 1246
+  },
+  "161": {
+    "left_track_id": 1469,
+    "left_count": 877,
+    "right_track_id": 1623,
+    "right_count": 907
+  },
+  "162": {
+    "left_track_id": 1470,
+    "left_count": 1006,
+    "right_track_id": 1644,
+    "right_count": 1054
+  },
+  "163": {
+    "left_track_id": 1481,
+    "left_count": 1407,
+    "right_track_id": 1642,
+    "right_count": 1440
+  },
+  "164": {
+    "left_track_id": 1499,
+    "left_count": 448,
+    "right_track_id": 1646,
+    "right_count": 1565
+  },
+  "165": {
+    "left_track_id": 1500,
+    "left_count": 977,
+    "right_track_id": 1647,
+    "right_count": 1851
+  },
+  "166": {
+    "left_track_id": 1508,
+    "left_count": 3192,
+    "right_track_id": 1711,
+    "right_count": 3873
+  },
+  "167": {
+    "left_track_id": 1528,
+    "left_count": 465,
+    "right_track_id": 1726,
+    "right_count": 491
+  },
+  "168": {
+    "left_track_id": 1552,
+    "left_count": 1900,
+    "right_track_id": 1764,
+    "right_count": 2895
+  },
+  "169": {
+    "left_track_id": 1574,
+    "left_count": 1611,
+    "right_track_id": 1806,
+    "right_count": 534
+  },
+  "170": {
+    "left_track_id": 1586,
+    "left_count": 360,
+    "right_track_id": 1754,
+    "right_count": 755
+  },
+  "171": {
+    "left_track_id": 1596,
+    "left_count": 60,
+    "right_track_id": 1854,
+    "right_count": 64
+  },
+  "172": {
+    "left_track_id": 1598,
+    "left_count": 1723,
+    "right_track_id": 1708,
+    "right_count": 3757
+  },
+  "173": {
+    "left_track_id": 1599,
+    "left_count": 1184,
+    "right_track_id": 1856,
+    "right_count": 2390
+  },
+  "174": {
+    "left_track_id": 1608,
+    "left_count": 736,
+    "right_track_id": 1860,
+    "right_count": 760
+  },
+  "175": {
+    "left_track_id": 1646,
+    "left_count": 1688,
+    "right_track_id": 2037,
+    "right_count": 614
+  },
+  "176": {
+    "left_track_id": 1650,
+    "left_count": 1893,
+    "right_track_id": 2050,
+    "right_count": 560
+  },
+  "177": {
+    "left_track_id": 1651,
+    "left_count": 1924,
+    "right_track_id": 1878,
+    "right_count": 1965
+  },
+  "178": {
+    "left_track_id": 1652,
+    "left_count": 993,
+    "right_track_id": 1887,
+    "right_count": 1133
+  },
+  "179": {
+    "left_track_id": 1653,
+    "left_count": 576,
+    "right_track_id": 1880,
+    "right_count": 836
+  },
+  "180": {
+    "left_track_id": 1691,
+    "left_count": 9,
+    "right_track_id": 1916,
+    "right_count": 9
+  },
+  "181": {
+    "left_track_id": 1645,
+    "left_count": 789,
+    "right_track_id": 1900,
+    "right_count": 225
+  },
+  "182": {
+    "left_track_id": 1823,
+    "left_count": 1451,
+    "right_track_id": 2106,
+    "right_count": 850
+  },
+  "183": {
+    "left_track_id": 1826,
+    "left_count": 760,
+    "right_track_id": 2052,
+    "right_count": 407
+  },
+  "184": {
+    "left_track_id": 1827,
+    "left_count": 896,
+    "right_track_id": 1921,
+    "right_count": 1702
+  },
+  "185": {
+    "left_track_id": 1854,
+    "left_count": 488,
+    "right_track_id": 2090,
+    "right_count": 544
+  },
+  "186": {
+    "left_track_id": 1893,
+    "left_count": 497,
+    "right_track_id": 2064,
+    "right_count": 737
+  },
+  "187": {
+    "left_track_id": 1901,
+    "left_count": 1059,
+    "right_track_id": 2104,
+    "right_count": 988
+  },
+  "188": {
+    "left_track_id": 1907,
+    "left_count": 485,
+    "right_track_id": 1720,
+    "right_count": 4300
+  },
+  "189": {
+    "left_track_id": 1906,
+    "left_count": 370,
+    "right_track_id": 2129,
+    "right_count": 170
+  },
+  "190": {
+    "left_track_id": 1933,
+    "left_count": 231,
+    "right_track_id": 2135,
+    "right_count": 248
+  },
+  "191": {
+    "left_track_id": 1935,
+    "left_count": 48,
+    "right_track_id": 2134,
+    "right_count": 103
+  },
+  "192": {
+    "left_track_id": 1937,
+    "left_count": 553,
+    "right_track_id": 2143,
+    "right_count": 272
+  },
+  "193": {
+    "left_track_id": 1941,
+    "left_count": 83,
+    "right_track_id": 2139,
+    "right_count": 63
+  },
+  "194": {
+    "left_track_id": 1945,
+    "left_count": 247,
+    "right_track_id": 2140,
+    "right_count": 539
+  },
+  "195": {
+    "left_track_id": 1950,
+    "left_count": 476,
+    "right_track_id": 2145,
+    "right_count": 687
+  },
+  "196": {
+    "left_track_id": 1952,
+    "left_count": 68,
+    "right_track_id": 2148,
+    "right_count": 262
+  },
+  "197": {
+    "left_track_id": 1956,
+    "left_count": 531,
+    "right_track_id": 2150,
+    "right_count": 500
+  },
+  "198": {
+    "left_track_id": 1961,
+    "left_count": 315,
+    "right_track_id": 2155,
+    "right_count": 456
+  },
+  "199": {
+    "left_track_id": 1964,
+    "left_count": 1735,
+    "right_track_id": 2142,
+    "right_count": 2271
+  },
+  "200": {
+    "left_track_id": 1965,
+    "left_count": 1419,
+    "right_track_id": 2157,
+    "right_count": 1425
+  },
+  "201": {
+    "left_track_id": 1966,
+    "left_count": 710,
+    "right_track_id": 2159,
+    "right_count": 859
+  },
+  "202": {
+    "left_track_id": 1975,
+    "left_count": 713,
+    "right_track_id": 2133,
+    "right_count": 2659
+  },
+  "203": {
+    "left_track_id": 1982,
+    "left_count": 296,
+    "right_track_id": 2168,
+    "right_count": 101
+  },
+  "204": {
+    "left_track_id": 1985,
+    "left_count": 49,
+    "right_track_id": 2174,
+    "right_count": 37
+  },
+  "205": {
+    "left_track_id": 1988,
+    "left_count": 34,
+    "right_track_id": 2177,
+    "right_count": 91
+  },
+  "206": {
+    "left_track_id": 1990,
+    "left_count": 1859,
+    "right_track_id": 2176,
+    "right_count": 1961
+  },
+  "207": {
+    "left_track_id": 1992,
+    "left_count": 86,
+    "right_track_id": 2178,
+    "right_count": 90
+  },
+  "208": {
+    "left_track_id": 1995,
+    "left_count": 217,
+    "right_track_id": 2179,
+    "right_count": 1183
+  },
+  "209": {
+    "left_track_id": 1996,
+    "left_count": 1645,
+    "right_track_id": 2196,
+    "right_count": 300
+  },
+  "210": {
+    "left_track_id": 1999,
+    "left_count": 501,
+    "right_track_id": 2183,
+    "right_count": 1075
+  },
+  "211": {
+    "left_track_id": 2001,
+    "left_count": 195,
+    "right_track_id": 2190,
+    "right_count": 233
+  },
+  "212": {
+    "left_track_id": 2008,
+    "left_count": 104,
+    "right_track_id": 2198,
+    "right_count": 142
+  },
+  "213": {
+    "left_track_id": 2012,
+    "left_count": 41,
+    "right_track_id": 2202,
+    "right_count": 228
+  },
+  "214": {
+    "left_track_id": 2013,
+    "left_count": 227,
+    "right_track_id": 2206,
+    "right_count": 473
+  },
+  "215": {
+    "left_track_id": 2019,
+    "left_count": 6,
+    "right_track_id": 2215,
+    "right_count": 21
+  },
+  "216": {
+    "left_track_id": 2022,
+    "left_count": 112,
+    "right_track_id": 2216,
+    "right_count": 242
+  },
+  "217": {
+    "left_track_id": 2014,
+    "left_count": 748,
+    "right_track_id": 2220,
+    "right_count": 399
+  },
+  "218": {
+    "left_track_id": 2029,
+    "left_count": 148,
+    "right_track_id": 2222,
+    "right_count": 187
+  },
+  "219": {
+    "left_track_id": 2032,
+    "left_count": 145,
+    "right_track_id": 2224,
+    "right_count": 443
+  },
+  "220": {
+    "left_track_id": 2034,
+    "left_count": 104,
+    "right_track_id": 2229,
+    "right_count": 56
+  },
+  "221": {
+    "left_track_id": 2043,
+    "left_count": 368,
+    "right_track_id": 2243,
+    "right_count": 272
+  },
+  "222": {
+    "left_track_id": 2047,
+    "left_count": 183,
+    "right_track_id": 2241,
+    "right_count": 208
+  },
+  "223": {
+    "left_track_id": 2049,
+    "left_count": 1164,
+    "right_track_id": 2231,
+    "right_count": 1714
+  },
+  "224": {
+    "left_track_id": 2052,
+    "left_count": 483,
+    "right_track_id": 2238,
+    "right_count": 967
+  },
+  "225": {
+    "left_track_id": 2062,
+    "left_count": 16,
+    "right_track_id": 2252,
+    "right_count": 22
+  },
+  "226": {
+    "left_track_id": 2068,
+    "left_count": 401,
+    "right_track_id": 2253,
+    "right_count": 503
+  },
+  "227": {
+    "left_track_id": 2072,
+    "left_count": 1286,
+    "right_track_id": 2259,
+    "right_count": 483
+  },
+  "228": {
+    "left_track_id": 2073,
+    "left_count": 228,
+    "right_track_id": 2263,
+    "right_count": 232
+  },
+  "229": {
+    "left_track_id": 2074,
+    "left_count": 719,
+    "right_track_id": 2265,
+    "right_count": 1366
+  },
+  "230": {
+    "left_track_id": 2075,
+    "left_count": 100,
+    "right_track_id": 2264,
+    "right_count": 96
+  },
+  "231": {
+    "left_track_id": 2077,
+    "left_count": 2445,
+    "right_track_id": 2288,
+    "right_count": 979
+  },
+  "232": {
+    "left_track_id": 2078,
+    "left_count": 2480,
+    "right_track_id": 2266,
+    "right_count": 2480
+  },
+  "233": {
+    "left_track_id": 2079,
+    "left_count": 1516,
+    "right_track_id": 2275,
+    "right_count": 1261
+  },
+  "234": {
+    "left_track_id": 2082,
+    "left_count": 410,
+    "right_track_id": 2271,
+    "right_count": 411
+  },
+  "235": {
+    "left_track_id": 2084,
+    "left_count": 135,
+    "right_track_id": 2272,
+    "right_count": 109
+  },
+  "236": {
+    "left_track_id": 2086,
+    "left_count": 2621,
+    "right_track_id": 2234,
+    "right_count": 4008
+  },
+  "237": {
+    "left_track_id": 2087,
+    "left_count": 1792,
+    "right_track_id": 2282,
+    "right_count": 2010
+  },
+  "238": {
+    "left_track_id": 2089,
+    "left_count": 1200,
+    "right_track_id": 2277,
+    "right_count": 1268
+  },
+  "239": {
+    "left_track_id": 2090,
+    "left_count": 3251,
+    "right_track_id": 2269,
+    "right_count": 6101
+  },
+  "240": {
+    "left_track_id": 2088,
+    "left_count": 639,
+    "right_track_id": 2279,
+    "right_count": 654
+  },
+  "241": {
+    "left_track_id": 2091,
+    "left_count": 1267,
+    "right_track_id": 2268,
+    "right_count": 1851
+  },
+  "242": {
+    "left_track_id": 2093,
+    "left_count": 736,
+    "right_track_id": 2285,
+    "right_count": 596
+  },
+  "243": {
+    "left_track_id": 2108,
+    "left_count": 21,
+    "right_track_id": 2296,
+    "right_count": 24
+  },
+  "244": {
+    "left_track_id": 2137,
+    "left_count": 2422,
+    "right_track_id": 2284,
+    "right_count": 3325
+  },
+  "245": {
+    "left_track_id": 2143,
+    "left_count": 187,
+    "right_track_id": 2369,
+    "right_count": 110
+  },
+  "246": {
+    "left_track_id": 2176,
+    "left_count": 121,
+    "right_track_id": 2379,
+    "right_count": 205
+  },
+  "247": {
+    "left_track_id": 2177,
+    "left_count": 2252,
+    "right_track_id": 2297,
+    "right_count": 2157
+  },
+  "248": {
+    "left_track_id": 2178,
+    "left_count": 39,
+    "right_track_id": 2383,
+    "right_count": 128
+  },
+  "249": {
+    "left_track_id": 2179,
+    "left_count": 754,
+    "right_track_id": 2419,
+    "right_count": 382
+  },
+  "250": {
+    "left_track_id": 2180,
+    "left_count": 2512,
+    "right_track_id": 2457,
+    "right_count": 1540
+  },
+  "251": {
+    "left_track_id": 2182,
+    "left_count": 847,
+    "right_track_id": 2392,
+    "right_count": 886
+  },
+  "252": {
+    "left_track_id": 2183,
+    "left_count": 1909,
+    "right_track_id": 2391,
+    "right_count": 4124
+  },
+  "253": {
+    "left_track_id": 2216,
+    "left_count": 2706,
+    "right_track_id": 2461,
+    "right_count": 2055
+  },
+  "254": {
+    "left_track_id": 2225,
+    "left_count": 432,
+    "right_track_id": 2451,
+    "right_count": 178
+  },
+  "255": {
+    "left_track_id": 2244,
+    "left_count": 2089,
+    "right_track_id": 2586,
+    "right_count": 828
+  },
+  "256": {
+    "left_track_id": 2245,
+    "left_count": 1457,
+    "right_track_id": 2459,
+    "right_count": 1353
+  },
+  "257": {
+    "left_track_id": 2247,
+    "left_count": 185,
+    "right_track_id": 2455,
+    "right_count": 505
+  },
+  "258": {
+    "left_track_id": 2249,
+    "left_count": 566,
+    "right_track_id": 2458,
+    "right_count": 664
+  },
+  "259": {
+    "left_track_id": 2251,
+    "left_count": 1198,
+    "right_track_id": 2462,
+    "right_count": 1226
+  },
+  "260": {
+    "left_track_id": 2288,
+    "left_count": 2026,
+    "right_track_id": 2551,
+    "right_count": 1038
+  },
+  "261": {
+    "left_track_id": 2322,
+    "left_count": 590,
+    "right_track_id": 2506,
+    "right_count": 945
+  },
+  "262": {
+    "left_track_id": 2321,
+    "left_count": 1015,
+    "right_track_id": 2552,
+    "right_count": 1030
+  },
+  "263": {
+    "left_track_id": 2329,
+    "left_count": 249,
+    "right_track_id": 2260,
+    "right_count": 4761
+  },
+  "264": {
+    "left_track_id": 2332,
+    "left_count": 189,
+    "right_track_id": 2570,
+    "right_count": 464
+  },
+  "265": {
+    "left_track_id": 2330,
+    "left_count": 1171,
+    "right_track_id": 2501,
+    "right_count": 3231
+  },
+  "266": {
+    "left_track_id": 2337,
+    "left_count": 1017,
+    "right_track_id": 2594,
+    "right_count": 1255
+  },
+  "267": {
+    "left_track_id": 2342,
+    "left_count": 14,
+    "right_track_id": 2598,
+    "right_count": 15
+  },
+  "268": {
+    "left_track_id": 2343,
+    "left_count": 280,
+    "right_track_id": 2600,
+    "right_count": 297
+  },
+  "269": {
+    "left_track_id": 2349,
+    "left_count": 1618,
+    "right_track_id": 2601,
+    "right_count": 1899
+  },
+  "270": {
+    "left_track_id": 2350,
+    "left_count": 824,
+    "right_track_id": 2599,
+    "right_count": 965
+  },
+  "271": {
+    "left_track_id": 2351,
+    "left_count": 766,
+    "right_track_id": 2602,
+    "right_count": 1490
+  },
+  "272": {
+    "left_track_id": 2361,
+    "left_count": 496,
+    "right_track_id": 2605,
+    "right_count": 2021
+  },
+  "273": {
+    "left_track_id": 2476,
+    "left_count": 4611,
+    "right_track_id": 2809,
+    "right_count": 3518
+  },
+  "274": {
+    "left_track_id": 2491,
+    "left_count": 462,
+    "right_track_id": 2615,
+    "right_count": 1116
+  },
+  "275": {
+    "left_track_id": 2552,
+    "left_count": 905,
+    "right_track_id": 2847,
+    "right_count": 898
+  },
+  "276": {
+    "left_track_id": 2555,
+    "left_count": 2541,
+    "right_track_id": 2848,
+    "right_count": 1036
+  },
+  "277": {
+    "left_track_id": 2556,
+    "left_count": 173,
+    "right_track_id": 2857,
+    "right_count": 599
+  },
+  "278": {
+    "left_track_id": 2562,
+    "left_count": 844,
+    "right_track_id": 2873,
+    "right_count": 1874
+  },
+  "279": {
+    "left_track_id": 2563,
+    "left_count": 453,
+    "right_track_id": 2872,
+    "right_count": 750
+  },
+  "280": {
+    "left_track_id": 2575,
+    "left_count": 57,
+    "right_track_id": 2893,
+    "right_count": 53
+  },
+  "281": {
+    "left_track_id": 2578,
+    "left_count": 285,
+    "right_track_id": 2884,
+    "right_count": 415
+  },
+  "282": {
+    "left_track_id": 2576,
+    "left_count": 74,
+    "right_track_id": 2894,
+    "right_count": 75
+  },
+  "283": {
+    "left_track_id": 2607,
+    "left_count": 32,
+    "right_track_id": 2921,
+    "right_count": 17
+  },
+  "284": {
+    "left_track_id": 2606,
+    "left_count": 455,
+    "right_track_id": 2918,
+    "right_count": 458
+  },
+  "285": {
+    "left_track_id": 2616,
+    "left_count": 2373,
+    "right_track_id": 2576,
+    "right_count": 5713
+  },
+  "286": {
+    "left_track_id": 2623,
+    "left_count": 1462,
+    "right_track_id": 3026,
+    "right_count": 551
+  },
+  "287": {
+    "left_track_id": 2622,
+    "left_count": 11,
+    "right_track_id": 2953,
+    "right_count": 12
+  },
+  "288": {
+    "left_track_id": 2628,
+    "left_count": 808,
+    "right_track_id": 2866,
+    "right_count": 2097
+  },
+  "289": {
+    "left_track_id": 2629,
+    "left_count": 5334,
+    "right_track_id": 3072,
+    "right_count": 3678
+  },
+  "290": {
+    "left_track_id": 2656,
+    "left_count": 832,
+    "right_track_id": 2927,
+    "right_count": 3037
+  },
+  "291": {
+    "left_track_id": 2669,
+    "left_count": 747,
+    "right_track_id": 2883,
+    "right_count": 1705
+  },
+  "292": {
+    "left_track_id": 2680,
+    "left_count": 1785,
+    "right_track_id": 2951,
+    "right_count": 2412
+  },
+  "293": {
+    "left_track_id": 2682,
+    "left_count": 277,
+    "right_track_id": 2875,
+    "right_count": 1412
+  },
+  "294": {
+    "left_track_id": 2730,
+    "left_count": 590,
+    "right_track_id": 2895,
+    "right_count": 1715
+  },
+  "295": {
+    "left_track_id": 2731,
+    "left_count": 190,
+    "right_track_id": 3017,
+    "right_count": 346
+  },
+  "296": {
+    "left_track_id": 2732,
+    "left_count": 55,
+    "right_track_id": 3015,
+    "right_count": 193
+  },
+  "297": {
+    "left_track_id": 2683,
+    "left_count": 1225,
+    "right_track_id": 3025,
+    "right_count": 664
+  },
+  "298": {
+    "left_track_id": 2744,
+    "left_count": 623,
+    "right_track_id": 2980,
+    "right_count": 1690
+  },
+  "299": {
+    "left_track_id": 2745,
+    "left_count": 1035,
+    "right_track_id": 3093,
+    "right_count": 546
+  },
+  "300": {
+    "left_track_id": 2746,
+    "left_count": 267,
+    "right_track_id": 3027,
+    "right_count": 403
+  },
+  "301": {
+    "left_track_id": 2759,
+    "left_count": 1106,
+    "right_track_id": 3032,
+    "right_count": 1585
+  },
+  "302": {
+    "left_track_id": 2805,
+    "left_count": 179,
+    "right_track_id": 3066,
+    "right_count": 305
+  },
+  "303": {
+    "left_track_id": 2804,
+    "left_count": 612,
+    "right_track_id": 3067,
+    "right_count": 465
+  },
+  "304": {
+    "left_track_id": 2854,
+    "left_count": 1078,
+    "right_track_id": 3030,
+    "right_count": 2006
+  },
+  "305": {
+    "left_track_id": 2857,
+    "left_count": 1126,
+    "right_track_id": 3132,
+    "right_count": 1100
+  },
+  "306": {
+    "left_track_id": 2864,
+    "left_count": 249,
+    "right_track_id": 3134,
+    "right_count": 925
+  },
+  "307": {
+    "left_track_id": 2866,
+    "left_count": 134,
+    "right_track_id": 3070,
+    "right_count": 1736
+  },
+  "308": {
+    "left_track_id": 2867,
+    "left_count": 540,
+    "right_track_id": 3143,
+    "right_count": 1332
+  },
+  "309": {
+    "left_track_id": 2868,
+    "left_count": 1834,
+    "right_track_id": 3142,
+    "right_count": 1847
+  },
+  "310": {
+    "left_track_id": 2869,
+    "left_count": 37,
+    "right_track_id": 3141,
+    "right_count": 74
+  },
+  "311": {
+    "left_track_id": 2872,
+    "left_count": 256,
+    "right_track_id": 3149,
+    "right_count": 258
+  },
+  "312": {
+    "left_track_id": 2874,
+    "left_count": 813,
+    "right_track_id": 3148,
+    "right_count": 949
+  },
+  "313": {
+    "left_track_id": 2873,
+    "left_count": 142,
+    "right_track_id": 3150,
+    "right_count": 100
+  },
+  "314": {
+    "left_track_id": 2876,
+    "left_count": 1284,
+    "right_track_id": 3126,
+    "right_count": 2772
+  },
+  "315": {
+    "left_track_id": 2881,
+    "left_count": 482,
+    "right_track_id": 3152,
+    "right_count": 783
+  },
+  "316": {
+    "left_track_id": 2883,
+    "left_count": 596,
+    "right_track_id": 3151,
+    "right_count": 753
+  },
+  "317": {
+    "left_track_id": 2909,
+    "left_count": 392,
+    "right_track_id": 3179,
+    "right_count": 665
+  },
+  "318": {
+    "left_track_id": 2911,
+    "left_count": 762,
+    "right_track_id": 3228,
+    "right_count": 252
+  },
+  "319": {
+    "left_track_id": 3008,
+    "left_count": 192,
+    "right_track_id": 3278,
+    "right_count": 603
+  },
+  "320": {
+    "left_track_id": 3023,
+    "left_count": 19,
+    "right_track_id": 3287,
+    "right_count": 33
+  },
+  "321": {
+    "left_track_id": 3005,
+    "left_count": 1656,
+    "right_track_id": 3330,
+    "right_count": 479
+  },
+  "322": {
+    "left_track_id": 3024,
+    "left_count": 97,
+    "right_track_id": 3288,
+    "right_count": 91
+  },
+  "323": {
+    "left_track_id": 3027,
+    "left_count": 468,
+    "right_track_id": 3293,
+    "right_count": 489
+  },
+  "324": {
+    "left_track_id": 3028,
+    "left_count": 394,
+    "right_track_id": 3271,
+    "right_count": 1263
+  },
+  "325": {
+    "left_track_id": 3035,
+    "left_count": 605,
+    "right_track_id": 3325,
+    "right_count": 400
+  },
+  "326": {
+    "left_track_id": 3044,
+    "left_count": 2012,
+    "right_track_id": 3297,
+    "right_count": 1228
+  },
+  "327": {
+    "left_track_id": 3045,
+    "left_count": 287,
+    "right_track_id": 3320,
+    "right_count": 264
+  },
+  "328": {
+    "left_track_id": 3047,
+    "left_count": 1229,
+    "right_track_id": 3328,
+    "right_count": 950
+  },
+  "329": {
+    "left_track_id": 3051,
+    "left_count": 252,
+    "right_track_id": 3292,
+    "right_count": 839
+  },
+  "330": {
+    "left_track_id": 3053,
+    "left_count": 11,
+    "right_track_id": 3324,
+    "right_count": 10
+  },
+  "331": {
+    "left_track_id": 3055,
+    "left_count": 46,
+    "right_track_id": 3326,
+    "right_count": 40
+  },
+  "332": {
+    "left_track_id": 3057,
+    "left_count": 18,
+    "right_track_id": 3329,
+    "right_count": 15
+  },
+  "333": {
+    "left_track_id": 3060,
+    "left_count": 233,
+    "right_track_id": 3331,
+    "right_count": 168
+  },
+  "334": {
+    "left_track_id": 3061,
+    "left_count": 569,
+    "right_track_id": 3332,
+    "right_count": 535
+  },
+  "335": {
+    "left_track_id": 3063,
+    "left_count": 1627,
+    "right_track_id": 3295,
+    "right_count": 2844
+  },
+  "336": {
+    "left_track_id": 3064,
+    "left_count": 111,
+    "right_track_id": 3334,
+    "right_count": 151
+  },
+  "337": {
+    "left_track_id": 3065,
+    "left_count": 124,
+    "right_track_id": 3333,
+    "right_count": 248
+  },
+  "338": {
+    "left_track_id": 3066,
+    "left_count": 243,
+    "right_track_id": 3335,
+    "right_count": 292
+  },
+  "339": {
+    "left_track_id": 3071,
+    "left_count": 1516,
+    "right_track_id": 3289,
+    "right_count": 2909
+  },
+  "340": {
+    "left_track_id": 3072,
+    "left_count": 1267,
+    "right_track_id": 3346,
+    "right_count": 1187
+  },
+  "341": {
+    "left_track_id": 3073,
+    "left_count": 1542,
+    "right_track_id": 3341,
+    "right_count": 1173
+  },
+  "342": {
+    "left_track_id": 3074,
+    "left_count": 1838,
+    "right_track_id": 3338,
+    "right_count": 3015
+  },
+  "343": {
+    "left_track_id": 3081,
+    "left_count": 638,
+    "right_track_id": 3354,
+    "right_count": 452
+  },
+  "344": {
+    "left_track_id": 3088,
+    "left_count": 488,
+    "right_track_id": 3359,
+    "right_count": 517
+  },
+  "345": {
+    "left_track_id": 3119,
+    "left_count": 1671,
+    "right_track_id": 3352,
+    "right_count": 2158
+  },
+  "346": {
+    "left_track_id": 3117,
+    "left_count": 385,
+    "right_track_id": 3360,
+    "right_count": 530
+  },
+  "347": {
+    "left_track_id": 3121,
+    "left_count": 154,
+    "right_track_id": 3391,
+    "right_count": 191
+  },
+  "348": {
+    "left_track_id": 3133,
+    "left_count": 63,
+    "right_track_id": 3421,
+    "right_count": 241
+  },
+  "349": {
+    "left_track_id": 3135,
+    "left_count": 421,
+    "right_track_id": 3431,
+    "right_count": 239
+  },
+  "350": {
+    "left_track_id": 3136,
+    "left_count": 261,
+    "right_track_id": 3424,
+    "right_count": 277
+  },
+  "351": {
+    "left_track_id": 3137,
+    "left_count": 269,
+    "right_track_id": 3456,
+    "right_count": 309
+  },
+  "352": {
+    "left_track_id": 3139,
+    "left_count": 1395,
+    "right_track_id": 3426,
+    "right_count": 1300
+  },
+  "353": {
+    "left_track_id": 3140,
+    "left_count": 1456,
+    "right_track_id": 3522,
+    "right_count": 538
+  },
+  "354": {
+    "left_track_id": 3142,
+    "left_count": 1211,
+    "right_track_id": 3344,
+    "right_count": 2660
+  },
+  "355": {
+    "left_track_id": 3145,
+    "left_count": 596,
+    "right_track_id": 3423,
+    "right_count": 701
+  },
+  "356": {
+    "left_track_id": 3168,
+    "left_count": 1683,
+    "right_track_id": 3454,
+    "right_count": 1761
+  },
+  "357": {
+    "left_track_id": 3177,
+    "left_count": 14,
+    "right_track_id": 3464,
+    "right_count": 5
+  },
+  "358": {
+    "left_track_id": 3178,
+    "left_count": 114,
+    "right_track_id": 3465,
+    "right_count": 133
+  },
+  "359": {
+    "left_track_id": 3181,
+    "left_count": 2132,
+    "right_track_id": 3427,
+    "right_count": 2526
+  },
+  "360": {
+    "left_track_id": 3183,
+    "left_count": 392,
+    "right_track_id": 3470,
+    "right_count": 149
+  },
+  "361": {
+    "left_track_id": 3188,
+    "left_count": 1653,
+    "right_track_id": 3526,
+    "right_count": 558
+  },
+  "362": {
+    "left_track_id": 3189,
+    "left_count": 371,
+    "right_track_id": 3498,
+    "right_count": 263
+  },
+  "363": {
+    "left_track_id": 3217,
+    "left_count": 9,
+    "right_track_id": 3503,
+    "right_count": 37
+  },
+  "364": {
+    "left_track_id": 3215,
+    "left_count": 741,
+    "right_track_id": 3501,
+    "right_count": 777
+  },
+  "365": {
+    "left_track_id": 3232,
+    "left_count": 755,
+    "right_track_id": 3530,
+    "right_count": 502
+  },
+  "366": {
+    "left_track_id": 3239,
+    "left_count": 1641,
+    "right_track_id": 3521,
+    "right_count": 1645
+  },
+  "367": {
+    "left_track_id": 3243,
+    "left_count": 100,
+    "right_track_id": 3528,
+    "right_count": 89
+  },
+  "368": {
+    "left_track_id": 3292,
+    "left_count": 11,
+    "right_track_id": 3573,
+    "right_count": 8
+  },
+  "369": {
+    "left_track_id": 3301,
+    "left_count": 1019,
+    "right_track_id": 3529,
+    "right_count": 1190
+  },
+  "370": {
+    "left_track_id": 3302,
+    "left_count": 151,
+    "right_track_id": 3153,
+    "right_count": 7132
+  },
+  "371": {
+    "left_track_id": 3303,
+    "left_count": 1417,
+    "right_track_id": 3578,
+    "right_count": 1628
+  },
+  "372": {
+    "left_track_id": 3305,
+    "left_count": 165,
+    "right_track_id": 3580,
+    "right_count": 232
+  },
+  "373": {
+    "left_track_id": 3307,
+    "left_count": 53,
+    "right_track_id": 3583,
+    "right_count": 141
+  },
+  "374": {
+    "left_track_id": 3316,
+    "left_count": 325,
+    "right_track_id": 3585,
+    "right_count": 238
+  },
+  "375": {
+    "left_track_id": 3315,
+    "left_count": 444,
+    "right_track_id": 3588,
+    "right_count": 124
+  },
+  "376": {
+    "left_track_id": 3318,
+    "left_count": 316,
+    "right_track_id": 3590,
+    "right_count": 461
+  },
+  "377": {
+    "left_track_id": 3323,
+    "left_count": 799,
+    "right_track_id": 3584,
+    "right_count": 1680
+  },
+  "378": {
+    "left_track_id": 3332,
+    "left_count": 1204,
+    "right_track_id": 3623,
+    "right_count": 999
+  },
+  "379": {
+    "left_track_id": 3333,
+    "left_count": 606,
+    "right_track_id": 3613,
+    "right_count": 607
+  },
+  "380": {
+    "left_track_id": 3334,
+    "left_count": 384,
+    "right_track_id": 3609,
+    "right_count": 370
+  },
+  "381": {
+    "left_track_id": 3335,
+    "left_count": 1534,
+    "right_track_id": 3619,
+    "right_count": 1432
+  },
+  "382": {
+    "left_track_id": 3342,
+    "left_count": 2020,
+    "right_track_id": 3594,
+    "right_count": 2488
+  },
+  "383": {
+    "left_track_id": 3343,
+    "left_count": 182,
+    "right_track_id": 3625,
+    "right_count": 216
+  },
+  "384": {
+    "left_track_id": 3345,
+    "left_count": 924,
+    "right_track_id": 3626,
+    "right_count": 725
+  },
+  "385": {
+    "left_track_id": 3347,
+    "left_count": 532,
+    "right_track_id": 3629,
+    "right_count": 1635
+  },
+  "386": {
+    "left_track_id": 3348,
+    "left_count": 2081,
+    "right_track_id": 3628,
+    "right_count": 2304
+  },
+  "387": {
+    "left_track_id": 3350,
+    "left_count": 404,
+    "right_track_id": 3631,
+    "right_count": 442
+  },
+  "388": {
+    "left_track_id": 3353,
+    "left_count": 235,
+    "right_track_id": 3634,
+    "right_count": 245
+  },
+  "389": {
+    "left_track_id": 3354,
+    "left_count": 542,
+    "right_track_id": 3633,
+    "right_count": 642
+  },
+  "390": {
+    "left_track_id": 3359,
+    "left_count": 235,
+    "right_track_id": 3637,
+    "right_count": 334
+  },
+  "391": {
+    "left_track_id": 3396,
+    "left_count": 1537,
+    "right_track_id": 3700,
+    "right_count": 1520
+  },
+  "392": {
+    "left_track_id": 3417,
+    "left_count": 982,
+    "right_track_id": 3705,
+    "right_count": 1009
+  },
+  "393": {
+    "left_track_id": 3418,
+    "left_count": 1639,
+    "right_track_id": 3630,
+    "right_count": 1310
+  },
+  "394": {
+    "left_track_id": 3425,
+    "left_count": 732,
+    "right_track_id": 3719,
+    "right_count": 1053
+  },
+  "395": {
+    "left_track_id": 3423,
+    "left_count": 1240,
+    "right_track_id": 3802,
+    "right_count": 243
+  },
+  "396": {
+    "left_track_id": 3466,
+    "left_count": 280,
+    "right_track_id": 3651,
+    "right_count": 1166
+  },
+  "397": {
+    "left_track_id": 3467,
+    "left_count": 928,
+    "right_track_id": 3635,
+    "right_count": 2130
+  },
+  "398": {
+    "left_track_id": 3473,
+    "left_count": 556,
+    "right_track_id": 3709,
+    "right_count": 1146
+  },
+  "399": {
+    "left_track_id": 3476,
+    "left_count": 715,
+    "right_track_id": 3781,
+    "right_count": 986
+  },
+  "400": {
+    "left_track_id": 3479,
+    "left_count": 85,
+    "right_track_id": 3795,
+    "right_count": 134
+  },
+  "401": {
+    "left_track_id": 3485,
+    "left_count": 231,
+    "right_track_id": 3803,
+    "right_count": 235
+  },
+  "402": {
+    "left_track_id": 3490,
+    "left_count": 126,
+    "right_track_id": 3807,
+    "right_count": 127
+  },
+  "403": {
+    "left_track_id": 4,
+    "left_count": 3366,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "404": {
+    "left_track_id": 10,
+    "left_count": 82,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "406": {
+    "left_track_id": 14,
+    "left_count": 45,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "407": {
+    "left_track_id": 15,
+    "left_count": 105,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "408": {
+    "left_track_id": 16,
+    "left_count": 141,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "409": {
+    "left_track_id": 17,
+    "left_count": 5,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "410": {
+    "left_track_id": 18,
+    "left_count": 2854,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "411": {
+    "left_track_id": 20,
+    "left_count": 707,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "412": {
+    "left_track_id": 22,
+    "left_count": 28,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "413": {
+    "left_track_id": 23,
+    "left_count": 50,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "414": {
+    "left_track_id": 24,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "415": {
+    "left_track_id": 25,
+    "left_count": 3,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "416": {
+    "left_track_id": 29,
+    "left_count": 12,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "417": {
+    "left_track_id": 31,
+    "left_count": 5,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "418": {
+    "left_track_id": 32,
+    "left_count": 110,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "419": {
+    "left_track_id": 35,
+    "left_count": 7,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "420": {
+    "left_track_id": 38,
+    "left_count": 25,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "421": {
+    "left_track_id": 44,
+    "left_count": 16,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "422": {
+    "left_track_id": 46,
+    "left_count": 481,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "423": {
+    "left_track_id": 47,
+    "left_count": 104,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "424": {
+    "left_track_id": 48,
+    "left_count": 119,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "425": {
+    "left_track_id": 49,
+    "left_count": 37,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "426": {
+    "left_track_id": 50,
+    "left_count": 64,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "427": {
+    "left_track_id": 55,
+    "left_count": 4,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "428": {
+    "left_track_id": 56,
+    "left_count": 215,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "429": {
+    "left_track_id": 60,
+    "left_count": 2,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "430": {
+    "left_track_id": 66,
+    "left_count": 49,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "431": {
+    "left_track_id": 68,
+    "left_count": 42,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "432": {
+    "left_track_id": 73,
+    "left_count": 26,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "433": {
+    "left_track_id": 76,
+    "left_count": 2,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "434": {
+    "left_track_id": 78,
+    "left_count": 147,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "435": {
+    "left_track_id": 79,
+    "left_count": 582,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "436": {
+    "left_track_id": 102,
+    "left_count": 31,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "437": {
+    "left_track_id": 103,
+    "left_count": 781,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "438": {
+    "left_track_id": 104,
+    "left_count": 13,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "439": {
+    "left_track_id": 124,
+    "left_count": 696,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "440": {
+    "left_track_id": 125,
+    "left_count": 12,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "441": {
+    "left_track_id": 129,
+    "left_count": 2,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "442": {
+    "left_track_id": 130,
+    "left_count": 7,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "443": {
+    "left_track_id": 132,
+    "left_count": 7,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "444": {
+    "left_track_id": 172,
+    "left_count": 60,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "445": {
+    "left_track_id": 182,
+    "left_count": 207,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "446": {
+    "left_track_id": 187,
+    "left_count": 4,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "447": {
+    "left_track_id": 194,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "448": {
+    "left_track_id": 201,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "449": {
+    "left_track_id": 205,
+    "left_count": 104,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "450": {
+    "left_track_id": 226,
+    "left_count": 6,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "451": {
+    "left_track_id": 257,
+    "left_count": 24,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "452": {
+    "left_track_id": 259,
+    "left_count": 195,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "453": {
+    "left_track_id": 260,
+    "left_count": 6,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "454": {
+    "left_track_id": 266,
+    "left_count": 7,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "455": {
+    "left_track_id": 268,
+    "left_count": 43,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "456": {
+    "left_track_id": 269,
+    "left_count": 92,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "457": {
+    "left_track_id": 270,
+    "left_count": 35,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "458": {
+    "left_track_id": 271,
+    "left_count": 562,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "459": {
+    "left_track_id": 272,
+    "left_count": 66,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "460": {
+    "left_track_id": 273,
+    "left_count": 115,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "461": {
+    "left_track_id": 274,
+    "left_count": 471,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "462": {
+    "left_track_id": 275,
+    "left_count": 334,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "463": {
+    "left_track_id": 280,
+    "left_count": 39,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "464": {
+    "left_track_id": 316,
+    "left_count": 622,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "465": {
+    "left_track_id": 317,
+    "left_count": 43,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "466": {
+    "left_track_id": 354,
+    "left_count": 443,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "467": {
+    "left_track_id": 360,
+    "left_count": 12,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "468": {
+    "left_track_id": 385,
+    "left_count": 455,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "469": {
+    "left_track_id": 386,
+    "left_count": 34,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "470": {
+    "left_track_id": 405,
+    "left_count": 438,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "471": {
+    "left_track_id": 410,
+    "left_count": 530,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "472": {
+    "left_track_id": 414,
+    "left_count": 2607,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "473": {
+    "left_track_id": 459,
+    "left_count": 13,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "474": {
+    "left_track_id": 469,
+    "left_count": 166,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "475": {
+    "left_track_id": 539,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "476": {
+    "left_track_id": 541,
+    "left_count": 29,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "477": {
+    "left_track_id": 542,
+    "left_count": 87,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "478": {
+    "left_track_id": 543,
+    "left_count": 67,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "479": {
+    "left_track_id": 544,
+    "left_count": 21,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "480": {
+    "left_track_id": 545,
+    "left_count": 147,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "481": {
+    "left_track_id": 546,
+    "left_count": 361,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "482": {
+    "left_track_id": 549,
+    "left_count": 18,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "483": {
+    "left_track_id": 575,
+    "left_count": 354,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "484": {
+    "left_track_id": 578,
+    "left_count": 148,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "485": {
+    "left_track_id": 582,
+    "left_count": 698,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "486": {
+    "left_track_id": 584,
+    "left_count": 88,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "487": {
+    "left_track_id": 585,
+    "left_count": 73,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "488": {
+    "left_track_id": 587,
+    "left_count": 7,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "489": {
+    "left_track_id": 589,
+    "left_count": 73,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "490": {
+    "left_track_id": 593,
+    "left_count": 104,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "491": {
+    "left_track_id": 594,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "492": {
+    "left_track_id": 604,
+    "left_count": 35,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "493": {
+    "left_track_id": 611,
+    "left_count": 56,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "494": {
+    "left_track_id": 614,
+    "left_count": 296,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "495": {
+    "left_track_id": 616,
+    "left_count": 136,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "496": {
+    "left_track_id": 617,
+    "left_count": 50,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "497": {
+    "left_track_id": 626,
+    "left_count": 3,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "498": {
+    "left_track_id": 635,
+    "left_count": 2517,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "499": {
+    "left_track_id": 658,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "500": {
+    "left_track_id": 664,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "501": {
+    "left_track_id": 673,
+    "left_count": 2,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "502": {
+    "left_track_id": 681,
+    "left_count": 227,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "503": {
+    "left_track_id": 682,
+    "left_count": 1994,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "504": {
+    "left_track_id": 716,
+    "left_count": 127,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "505": {
+    "left_track_id": 732,
+    "left_count": 9,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "506": {
+    "left_track_id": 733,
+    "left_count": 278,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "507": {
+    "left_track_id": 795,
+    "left_count": 320,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "508": {
+    "left_track_id": 808,
+    "left_count": 95,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "509": {
+    "left_track_id": 809,
+    "left_count": 71,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "510": {
+    "left_track_id": 836,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "511": {
+    "left_track_id": 868,
+    "left_count": 368,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "512": {
+    "left_track_id": 869,
+    "left_count": 39,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "513": {
+    "left_track_id": 873,
+    "left_count": 331,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "514": {
+    "left_track_id": 874,
+    "left_count": 3,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "515": {
+    "left_track_id": 885,
+    "left_count": 23,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "516": {
+    "left_track_id": 995,
+    "left_count": 5,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "517": {
+    "left_track_id": 996,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "518": {
+    "left_track_id": 998,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "519": {
+    "left_track_id": 1023,
+    "left_count": 2,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "520": {
+    "left_track_id": 1028,
+    "left_count": 3,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "521": {
+    "left_track_id": 1029,
+    "left_count": 29,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "522": {
+    "left_track_id": 1034,
+    "left_count": 300,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "523": {
+    "left_track_id": 1035,
+    "left_count": 1584,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "524": {
+    "left_track_id": 1049,
+    "left_count": 80,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "525": {
+    "left_track_id": 1077,
+    "left_count": 916,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "526": {
+    "left_track_id": 1101,
+    "left_count": 291,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "527": {
+    "left_track_id": 1103,
+    "left_count": 234,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "528": {
+    "left_track_id": 1104,
+    "left_count": 1188,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "529": {
+    "left_track_id": 1106,
+    "left_count": 658,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "530": {
+    "left_track_id": 1110,
+    "left_count": 142,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "531": {
+    "left_track_id": 1111,
+    "left_count": 318,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "532": {
+    "left_track_id": 1115,
+    "left_count": 43,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "533": {
+    "left_track_id": 1117,
+    "left_count": 214,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "534": {
+    "left_track_id": 1118,
+    "left_count": 46,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "535": {
+    "left_track_id": 1123,
+    "left_count": 337,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "536": {
+    "left_track_id": 1158,
+    "left_count": 15,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "537": {
+    "left_track_id": 1159,
+    "left_count": 14,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "538": {
+    "left_track_id": 1160,
+    "left_count": 9,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "539": {
+    "left_track_id": 1161,
+    "left_count": 9,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "540": {
+    "left_track_id": 1162,
+    "left_count": 4,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "541": {
+    "left_track_id": 1197,
+    "left_count": 443,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "542": {
+    "left_track_id": 1200,
+    "left_count": 814,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "543": {
+    "left_track_id": 1204,
+    "left_count": 19,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "544": {
+    "left_track_id": 1221,
+    "left_count": 829,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "545": {
+    "left_track_id": 1223,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "546": {
+    "left_track_id": 1252,
+    "left_count": 78,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "547": {
+    "left_track_id": 1277,
+    "left_count": 140,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "548": {
+    "left_track_id": 1278,
+    "left_count": 138,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "549": {
+    "left_track_id": 1279,
+    "left_count": 103,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "550": {
+    "left_track_id": 1310,
+    "left_count": 1055,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "551": {
+    "left_track_id": 1313,
+    "left_count": 2,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "552": {
+    "left_track_id": 1316,
+    "left_count": 354,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "553": {
+    "left_track_id": 1336,
+    "left_count": 3,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "554": {
+    "left_track_id": 1356,
+    "left_count": 19,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "555": {
+    "left_track_id": 1357,
+    "left_count": 673,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "556": {
+    "left_track_id": 1358,
+    "left_count": 8,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "557": {
+    "left_track_id": 1371,
+    "left_count": 35,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "558": {
+    "left_track_id": 1372,
+    "left_count": 5,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "559": {
+    "left_track_id": 1373,
+    "left_count": 135,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "560": {
+    "left_track_id": 1380,
+    "left_count": 20,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "561": {
+    "left_track_id": 1400,
+    "left_count": 27,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "562": {
+    "left_track_id": 1401,
+    "left_count": 11,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "563": {
+    "left_track_id": 1418,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "564": {
+    "left_track_id": 1427,
+    "left_count": 34,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "565": {
+    "left_track_id": 1457,
+    "left_count": 433,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "566": {
+    "left_track_id": 1461,
+    "left_count": 610,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "567": {
+    "left_track_id": 1462,
+    "left_count": 19,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "568": {
+    "left_track_id": 1465,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "569": {
+    "left_track_id": 1466,
+    "left_count": 4,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "570": {
+    "left_track_id": 1476,
+    "left_count": 3,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "571": {
+    "left_track_id": 1479,
+    "left_count": 16,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "572": {
+    "left_track_id": 1480,
+    "left_count": 48,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "573": {
+    "left_track_id": 1482,
+    "left_count": 16,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "574": {
+    "left_track_id": 1483,
+    "left_count": 90,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "575": {
+    "left_track_id": 1484,
+    "left_count": 314,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "576": {
+    "left_track_id": 1502,
+    "left_count": 17,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "577": {
+    "left_track_id": 1503,
+    "left_count": 251,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "578": {
+    "left_track_id": 1504,
+    "left_count": 146,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "579": {
+    "left_track_id": 1505,
+    "left_count": 76,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "580": {
+    "left_track_id": 1506,
+    "left_count": 136,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "581": {
+    "left_track_id": 1507,
+    "left_count": 100,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "582": {
+    "left_track_id": 1513,
+    "left_count": 181,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "583": {
+    "left_track_id": 1526,
+    "left_count": 11,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "584": {
+    "left_track_id": 1527,
+    "left_count": 183,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "585": {
+    "left_track_id": 1529,
+    "left_count": 1190,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "586": {
+    "left_track_id": 1556,
+    "left_count": 2,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "587": {
+    "left_track_id": 1557,
+    "left_count": 280,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "588": {
+    "left_track_id": 1558,
+    "left_count": 14,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "589": {
+    "left_track_id": 1563,
+    "left_count": 195,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "590": {
+    "left_track_id": 1570,
+    "left_count": 14,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "591": {
+    "left_track_id": 1571,
+    "left_count": 704,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "592": {
+    "left_track_id": 1573,
+    "left_count": 99,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "593": {
+    "left_track_id": 1575,
+    "left_count": 39,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "594": {
+    "left_track_id": 1597,
+    "left_count": 415,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "595": {
+    "left_track_id": 1600,
+    "left_count": 520,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "596": {
+    "left_track_id": 1603,
+    "left_count": 2,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "597": {
+    "left_track_id": 1606,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "598": {
+    "left_track_id": 1617,
+    "left_count": 19,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "599": {
+    "left_track_id": 1642,
+    "left_count": 18,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "600": {
+    "left_track_id": 1643,
+    "left_count": 427,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "601": {
+    "left_track_id": 1644,
+    "left_count": 101,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "602": {
+    "left_track_id": 1647,
+    "left_count": 133,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "603": {
+    "left_track_id": 1648,
+    "left_count": 1669,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "604": {
+    "left_track_id": 1698,
+    "left_count": 26,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "605": {
+    "left_track_id": 1700,
+    "left_count": 14,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "606": {
+    "left_track_id": 1701,
+    "left_count": 1479,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "607": {
+    "left_track_id": 1702,
+    "left_count": 14,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "608": {
+    "left_track_id": 1723,
+    "left_count": 11,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "609": {
+    "left_track_id": 1724,
+    "left_count": 15,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "610": {
+    "left_track_id": 1778,
+    "left_count": 438,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "611": {
+    "left_track_id": 1806,
+    "left_count": 73,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "612": {
+    "left_track_id": 1817,
+    "left_count": 98,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "613": {
+    "left_track_id": 1822,
+    "left_count": 199,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "614": {
+    "left_track_id": 1824,
+    "left_count": 134,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "615": {
+    "left_track_id": 1825,
+    "left_count": 790,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "616": {
+    "left_track_id": 1828,
+    "left_count": 537,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "617": {
+    "left_track_id": 1902,
+    "left_count": 313,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "618": {
+    "left_track_id": 1905,
+    "left_count": 46,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "619": {
+    "left_track_id": 1929,
+    "left_count": 10,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "620": {
+    "left_track_id": 1930,
+    "left_count": 9,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "621": {
+    "left_track_id": 1931,
+    "left_count": 13,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "622": {
+    "left_track_id": 1932,
+    "left_count": 4,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "623": {
+    "left_track_id": 1934,
+    "left_count": 111,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "624": {
+    "left_track_id": 1936,
+    "left_count": 366,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "625": {
+    "left_track_id": 1938,
+    "left_count": 889,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "626": {
+    "left_track_id": 1939,
+    "left_count": 8,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "627": {
+    "left_track_id": 1940,
+    "left_count": 81,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "628": {
+    "left_track_id": 1942,
+    "left_count": 32,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "629": {
+    "left_track_id": 1943,
+    "left_count": 166,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "630": {
+    "left_track_id": 1944,
+    "left_count": 87,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "631": {
+    "left_track_id": 1946,
+    "left_count": 17,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "632": {
+    "left_track_id": 1947,
+    "left_count": 21,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "633": {
+    "left_track_id": 1948,
+    "left_count": 3,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "634": {
+    "left_track_id": 1949,
+    "left_count": 88,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "635": {
+    "left_track_id": 1951,
+    "left_count": 34,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "636": {
+    "left_track_id": 1953,
+    "left_count": 102,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "637": {
+    "left_track_id": 1954,
+    "left_count": 51,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "638": {
+    "left_track_id": 1955,
+    "left_count": 7,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "639": {
+    "left_track_id": 1957,
+    "left_count": 5,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "640": {
+    "left_track_id": 1958,
+    "left_count": 87,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "641": {
+    "left_track_id": 1959,
+    "left_count": 663,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "642": {
+    "left_track_id": 1960,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "643": {
+    "left_track_id": 1962,
+    "left_count": 339,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "644": {
+    "left_track_id": 1963,
+    "left_count": 89,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "645": {
+    "left_track_id": 1967,
+    "left_count": 13,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "646": {
+    "left_track_id": 1968,
+    "left_count": 76,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "647": {
+    "left_track_id": 1969,
+    "left_count": 34,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "648": {
+    "left_track_id": 1970,
+    "left_count": 20,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "649": {
+    "left_track_id": 1972,
+    "left_count": 30,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "650": {
+    "left_track_id": 1973,
+    "left_count": 56,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "651": {
+    "left_track_id": 1974,
+    "left_count": 184,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "652": {
+    "left_track_id": 1976,
+    "left_count": 46,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "653": {
+    "left_track_id": 1977,
+    "left_count": 6,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "654": {
+    "left_track_id": 1978,
+    "left_count": 1117,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "655": {
+    "left_track_id": 1979,
+    "left_count": 257,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "656": {
+    "left_track_id": 1980,
+    "left_count": 256,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "657": {
+    "left_track_id": 1981,
+    "left_count": 340,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "658": {
+    "left_track_id": 1984,
+    "left_count": 55,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "659": {
+    "left_track_id": 1986,
+    "left_count": 11,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "660": {
+    "left_track_id": 1987,
+    "left_count": 38,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "661": {
+    "left_track_id": 1989,
+    "left_count": 21,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "662": {
+    "left_track_id": 1991,
+    "left_count": 72,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "663": {
+    "left_track_id": 1993,
+    "left_count": 93,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "664": {
+    "left_track_id": 1994,
+    "left_count": 132,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "665": {
+    "left_track_id": 1997,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "666": {
+    "left_track_id": 1998,
+    "left_count": 76,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "667": {
+    "left_track_id": 2000,
+    "left_count": 4,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "668": {
+    "left_track_id": 2002,
+    "left_count": 635,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "669": {
+    "left_track_id": 2003,
+    "left_count": 333,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "670": {
+    "left_track_id": 2004,
+    "left_count": 132,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "671": {
+    "left_track_id": 2005,
+    "left_count": 197,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "672": {
+    "left_track_id": 2006,
+    "left_count": 363,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "673": {
+    "left_track_id": 2007,
+    "left_count": 57,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "674": {
+    "left_track_id": 2009,
+    "left_count": 479,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "675": {
+    "left_track_id": 2010,
+    "left_count": 25,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "676": {
+    "left_track_id": 2011,
+    "left_count": 7,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "677": {
+    "left_track_id": 2015,
+    "left_count": 1156,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "678": {
+    "left_track_id": 2016,
+    "left_count": 234,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "679": {
+    "left_track_id": 2017,
+    "left_count": 6,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "680": {
+    "left_track_id": 2018,
+    "left_count": 24,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "681": {
+    "left_track_id": 2020,
+    "left_count": 12,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "682": {
+    "left_track_id": 2021,
+    "left_count": 7,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "683": {
+    "left_track_id": 2023,
+    "left_count": 124,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "684": {
+    "left_track_id": 2024,
+    "left_count": 129,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "685": {
+    "left_track_id": 2025,
+    "left_count": 25,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "686": {
+    "left_track_id": 2026,
+    "left_count": 74,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "687": {
+    "left_track_id": 2027,
+    "left_count": 16,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "688": {
+    "left_track_id": 2028,
+    "left_count": 2,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "689": {
+    "left_track_id": 2030,
+    "left_count": 3,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "690": {
+    "left_track_id": 2031,
+    "left_count": 9,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "691": {
+    "left_track_id": 2033,
+    "left_count": 50,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "692": {
+    "left_track_id": 2035,
+    "left_count": 74,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "693": {
+    "left_track_id": 2036,
+    "left_count": 5,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "694": {
+    "left_track_id": 2037,
+    "left_count": 6,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "695": {
+    "left_track_id": 2038,
+    "left_count": 23,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "696": {
+    "left_track_id": 2039,
+    "left_count": 2031,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "697": {
+    "left_track_id": 2040,
+    "left_count": 222,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "698": {
+    "left_track_id": 2041,
+    "left_count": 36,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "699": {
+    "left_track_id": 2042,
+    "left_count": 119,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "700": {
+    "left_track_id": 2044,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "701": {
+    "left_track_id": 2045,
+    "left_count": 892,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "702": {
+    "left_track_id": 2046,
+    "left_count": 1533,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "703": {
+    "left_track_id": 2048,
+    "left_count": 43,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "704": {
+    "left_track_id": 2050,
+    "left_count": 264,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "705": {
+    "left_track_id": 2051,
+    "left_count": 39,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "706": {
+    "left_track_id": 2053,
+    "left_count": 3,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "707": {
+    "left_track_id": 2054,
+    "left_count": 3,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "708": {
+    "left_track_id": 2055,
+    "left_count": 83,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "709": {
+    "left_track_id": 2056,
+    "left_count": 85,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "710": {
+    "left_track_id": 2057,
+    "left_count": 17,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "711": {
+    "left_track_id": 2058,
+    "left_count": 47,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "712": {
+    "left_track_id": 2059,
+    "left_count": 33,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "713": {
+    "left_track_id": 2060,
+    "left_count": 2,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "714": {
+    "left_track_id": 2061,
+    "left_count": 63,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "715": {
+    "left_track_id": 2063,
+    "left_count": 10,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "716": {
+    "left_track_id": 2064,
+    "left_count": 539,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "717": {
+    "left_track_id": 2065,
+    "left_count": 93,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "718": {
+    "left_track_id": 2066,
+    "left_count": 79,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "719": {
+    "left_track_id": 2069,
+    "left_count": 26,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "720": {
+    "left_track_id": 2070,
+    "left_count": 56,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "721": {
+    "left_track_id": 2071,
+    "left_count": 802,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "722": {
+    "left_track_id": 2080,
+    "left_count": 453,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "723": {
+    "left_track_id": 2081,
+    "left_count": 1498,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "724": {
+    "left_track_id": 2083,
+    "left_count": 1026,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "725": {
+    "left_track_id": 2085,
+    "left_count": 1405,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "726": {
+    "left_track_id": 2092,
+    "left_count": 47,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "727": {
+    "left_track_id": 2094,
+    "left_count": 157,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "728": {
+    "left_track_id": 2099,
+    "left_count": 23,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "729": {
+    "left_track_id": 2117,
+    "left_count": 162,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "730": {
+    "left_track_id": 2130,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "731": {
+    "left_track_id": 2132,
+    "left_count": 8,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "732": {
+    "left_track_id": 2133,
+    "left_count": 19,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "733": {
+    "left_track_id": 2134,
+    "left_count": 17,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "734": {
+    "left_track_id": 2135,
+    "left_count": 760,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "735": {
+    "left_track_id": 2136,
+    "left_count": 299,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "736": {
+    "left_track_id": 2156,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "737": {
+    "left_track_id": 2157,
+    "left_count": 6,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "738": {
+    "left_track_id": 2158,
+    "left_count": 101,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "739": {
+    "left_track_id": 2159,
+    "left_count": 12,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "740": {
+    "left_track_id": 2169,
+    "left_count": 8,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "741": {
+    "left_track_id": 2181,
+    "left_count": 32,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "742": {
+    "left_track_id": 2184,
+    "left_count": 16,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "743": {
+    "left_track_id": 2185,
+    "left_count": 744,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "744": {
+    "left_track_id": 2186,
+    "left_count": 455,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "745": {
+    "left_track_id": 2215,
+    "left_count": 384,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "746": {
+    "left_track_id": 2224,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "747": {
+    "left_track_id": 2233,
+    "left_count": 37,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "748": {
+    "left_track_id": 2234,
+    "left_count": 268,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "749": {
+    "left_track_id": 2235,
+    "left_count": 920,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "750": {
+    "left_track_id": 2242,
+    "left_count": 21,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "751": {
+    "left_track_id": 2243,
+    "left_count": 144,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "752": {
+    "left_track_id": 2246,
+    "left_count": 466,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "753": {
+    "left_track_id": 2248,
+    "left_count": 24,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "754": {
+    "left_track_id": 2250,
+    "left_count": 106,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "755": {
+    "left_track_id": 2252,
+    "left_count": 70,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "756": {
+    "left_track_id": 2253,
+    "left_count": 65,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "757": {
+    "left_track_id": 2263,
+    "left_count": 28,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "758": {
+    "left_track_id": 2266,
+    "left_count": 34,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "759": {
+    "left_track_id": 2284,
+    "left_count": 332,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "760": {
+    "left_track_id": 2289,
+    "left_count": 1611,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "761": {
+    "left_track_id": 2290,
+    "left_count": 13,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "762": {
+    "left_track_id": 2291,
+    "left_count": 4055,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "763": {
+    "left_track_id": 2323,
+    "left_count": 387,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "764": {
+    "left_track_id": 2324,
+    "left_count": 463,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "765": {
+    "left_track_id": 2325,
+    "left_count": 135,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "766": {
+    "left_track_id": 2344,
+    "left_count": 35,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "767": {
+    "left_track_id": 2345,
+    "left_count": 948,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "768": {
+    "left_track_id": 2346,
+    "left_count": 18,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "769": {
+    "left_track_id": 2354,
+    "left_count": 268,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "770": {
+    "left_track_id": 2359,
+    "left_count": 19,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "771": {
+    "left_track_id": 2363,
+    "left_count": 2,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "772": {
+    "left_track_id": 2365,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "773": {
+    "left_track_id": 2366,
+    "left_count": 11,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "774": {
+    "left_track_id": 2375,
+    "left_count": 587,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "775": {
+    "left_track_id": 2454,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "776": {
+    "left_track_id": 2457,
+    "left_count": 98,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "777": {
+    "left_track_id": 2458,
+    "left_count": 102,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "778": {
+    "left_track_id": 2465,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "779": {
+    "left_track_id": 2474,
+    "left_count": 2106,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "780": {
+    "left_track_id": 2477,
+    "left_count": 3,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "781": {
+    "left_track_id": 2488,
+    "left_count": 26,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "782": {
+    "left_track_id": 2487,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "783": {
+    "left_track_id": 2511,
+    "left_count": 9,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "784": {
+    "left_track_id": 2539,
+    "left_count": 23,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "785": {
+    "left_track_id": 2540,
+    "left_count": 17,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "786": {
+    "left_track_id": 2541,
+    "left_count": 4,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "787": {
+    "left_track_id": 2542,
+    "left_count": 4,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "788": {
+    "left_track_id": 2546,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "789": {
+    "left_track_id": 2547,
+    "left_count": 17,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "790": {
+    "left_track_id": 2548,
+    "left_count": 18,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "791": {
+    "left_track_id": 2549,
+    "left_count": 64,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "792": {
+    "left_track_id": 2550,
+    "left_count": 24,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "793": {
+    "left_track_id": 2551,
+    "left_count": 104,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "794": {
+    "left_track_id": 2553,
+    "left_count": 148,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "795": {
+    "left_track_id": 2554,
+    "left_count": 341,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "796": {
+    "left_track_id": 2557,
+    "left_count": 60,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "797": {
+    "left_track_id": 2558,
+    "left_count": 249,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "798": {
+    "left_track_id": 2559,
+    "left_count": 42,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "799": {
+    "left_track_id": 2560,
+    "left_count": 99,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "800": {
+    "left_track_id": 2561,
+    "left_count": 818,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "801": {
+    "left_track_id": 2564,
+    "left_count": 19,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "802": {
+    "left_track_id": 2565,
+    "left_count": 666,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "803": {
+    "left_track_id": 2586,
+    "left_count": 296,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "804": {
+    "left_track_id": 2602,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "805": {
+    "left_track_id": 2603,
+    "left_count": 3,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "806": {
+    "left_track_id": 2611,
+    "left_count": 629,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "807": {
+    "left_track_id": 2612,
+    "left_count": 76,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "808": {
+    "left_track_id": 2670,
+    "left_count": 350,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "809": {
+    "left_track_id": 2684,
+    "left_count": 5227,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "810": {
+    "left_track_id": 2701,
+    "left_count": 8,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "811": {
+    "left_track_id": 2702,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "812": {
+    "left_track_id": 2703,
+    "left_count": 499,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "813": {
+    "left_track_id": 2704,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "814": {
+    "left_track_id": 2705,
+    "left_count": 5,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "815": {
+    "left_track_id": 2729,
+    "left_count": 4,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "816": {
+    "left_track_id": 2742,
+    "left_count": 264,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "817": {
+    "left_track_id": 2743,
+    "left_count": 10,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "818": {
+    "left_track_id": 2747,
+    "left_count": 542,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "819": {
+    "left_track_id": 2748,
+    "left_count": 404,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "820": {
+    "left_track_id": 2813,
+    "left_count": 12,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "821": {
+    "left_track_id": 2814,
+    "left_count": 66,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "822": {
+    "left_track_id": 2843,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "823": {
+    "left_track_id": 2844,
+    "left_count": 4,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "824": {
+    "left_track_id": 2847,
+    "left_count": 12,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "825": {
+    "left_track_id": 2848,
+    "left_count": 16,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "826": {
+    "left_track_id": 2849,
+    "left_count": 311,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "827": {
+    "left_track_id": 2850,
+    "left_count": 725,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "828": {
+    "left_track_id": 2852,
+    "left_count": 211,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "829": {
+    "left_track_id": 2853,
+    "left_count": 18,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "830": {
+    "left_track_id": 2855,
+    "left_count": 289,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "831": {
+    "left_track_id": 2856,
+    "left_count": 245,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "832": {
+    "left_track_id": 2858,
+    "left_count": 600,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "833": {
+    "left_track_id": 2859,
+    "left_count": 17,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "834": {
+    "left_track_id": 2860,
+    "left_count": 200,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "835": {
+    "left_track_id": 2861,
+    "left_count": 1179,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "836": {
+    "left_track_id": 2862,
+    "left_count": 384,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "837": {
+    "left_track_id": 2863,
+    "left_count": 51,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "838": {
+    "left_track_id": 2865,
+    "left_count": 24,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "839": {
+    "left_track_id": 2870,
+    "left_count": 11,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "840": {
+    "left_track_id": 2871,
+    "left_count": 58,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "841": {
+    "left_track_id": 2875,
+    "left_count": 569,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "842": {
+    "left_track_id": 2878,
+    "left_count": 360,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "843": {
+    "left_track_id": 2882,
+    "left_count": 18,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "844": {
+    "left_track_id": 2908,
+    "left_count": 3,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "845": {
+    "left_track_id": 2954,
+    "left_count": 24,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "846": {
+    "left_track_id": 2955,
+    "left_count": 258,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "847": {
+    "left_track_id": 2958,
+    "left_count": 702,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "848": {
+    "left_track_id": 2966,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "849": {
+    "left_track_id": 2969,
+    "left_count": 19,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "850": {
+    "left_track_id": 3006,
+    "left_count": 6,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "851": {
+    "left_track_id": 3007,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "852": {
+    "left_track_id": 3025,
+    "left_count": 378,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "853": {
+    "left_track_id": 3026,
+    "left_count": 408,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "854": {
+    "left_track_id": 3029,
+    "left_count": 323,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "855": {
+    "left_track_id": 3031,
+    "left_count": 667,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "856": {
+    "left_track_id": 3034,
+    "left_count": 262,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "857": {
+    "left_track_id": 3043,
+    "left_count": 22,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "858": {
+    "left_track_id": 3046,
+    "left_count": 41,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "859": {
+    "left_track_id": 3048,
+    "left_count": 97,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "860": {
+    "left_track_id": 3049,
+    "left_count": 97,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "861": {
+    "left_track_id": 3052,
+    "left_count": 56,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "862": {
+    "left_track_id": 3054,
+    "left_count": 100,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "863": {
+    "left_track_id": 3056,
+    "left_count": 7,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "864": {
+    "left_track_id": 3058,
+    "left_count": 130,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "865": {
+    "left_track_id": 3059,
+    "left_count": 92,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "866": {
+    "left_track_id": 3062,
+    "left_count": 108,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "867": {
+    "left_track_id": 3067,
+    "left_count": 81,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "868": {
+    "left_track_id": 3075,
+    "left_count": 1121,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "869": {
+    "left_track_id": 3076,
+    "left_count": 19,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "870": {
+    "left_track_id": 3077,
+    "left_count": 1286,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "871": {
+    "left_track_id": 3078,
+    "left_count": 39,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "872": {
+    "left_track_id": 3079,
+    "left_count": 54,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "873": {
+    "left_track_id": 3080,
+    "left_count": 34,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "874": {
+    "left_track_id": 3083,
+    "left_count": 331,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "875": {
+    "left_track_id": 3084,
+    "left_count": 9,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "876": {
+    "left_track_id": 3085,
+    "left_count": 266,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "877": {
+    "left_track_id": 3086,
+    "left_count": 347,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "878": {
+    "left_track_id": 3087,
+    "left_count": 60,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "879": {
+    "left_track_id": 3118,
+    "left_count": 35,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "880": {
+    "left_track_id": 3123,
+    "left_count": 269,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "881": {
+    "left_track_id": 3124,
+    "left_count": 58,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "882": {
+    "left_track_id": 3125,
+    "left_count": 119,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "883": {
+    "left_track_id": 3126,
+    "left_count": 635,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "884": {
+    "left_track_id": 3127,
+    "left_count": 56,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "885": {
+    "left_track_id": 3129,
+    "left_count": 28,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "886": {
+    "left_track_id": 3130,
+    "left_count": 207,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "887": {
+    "left_track_id": 3131,
+    "left_count": 87,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "888": {
+    "left_track_id": 3132,
+    "left_count": 230,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "889": {
+    "left_track_id": 3134,
+    "left_count": 130,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "890": {
+    "left_track_id": 3138,
+    "left_count": 282,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "891": {
+    "left_track_id": 3141,
+    "left_count": 1516,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "892": {
+    "left_track_id": 3143,
+    "left_count": 31,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "893": {
+    "left_track_id": 3144,
+    "left_count": 17,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "894": {
+    "left_track_id": 3169,
+    "left_count": 14,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "895": {
+    "left_track_id": 3182,
+    "left_count": 20,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "896": {
+    "left_track_id": 3184,
+    "left_count": 644,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "897": {
+    "left_track_id": 3185,
+    "left_count": 18,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "898": {
+    "left_track_id": 3186,
+    "left_count": 77,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "899": {
+    "left_track_id": 3187,
+    "left_count": 699,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "900": {
+    "left_track_id": 3216,
+    "left_count": 199,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "901": {
+    "left_track_id": 3233,
+    "left_count": 3,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "902": {
+    "left_track_id": 3237,
+    "left_count": 7,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "903": {
+    "left_track_id": 3238,
+    "left_count": 2,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "904": {
+    "left_track_id": 3240,
+    "left_count": 4,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "905": {
+    "left_track_id": 3242,
+    "left_count": 9,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "906": {
+    "left_track_id": 3244,
+    "left_count": 694,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "907": {
+    "left_track_id": 3246,
+    "left_count": 49,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "908": {
+    "left_track_id": 3258,
+    "left_count": 149,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "909": {
+    "left_track_id": 3291,
+    "left_count": 1,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "910": {
+    "left_track_id": 3293,
+    "left_count": 12,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "911": {
+    "left_track_id": 3300,
+    "left_count": 3,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "912": {
+    "left_track_id": 3304,
+    "left_count": 6,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "913": {
+    "left_track_id": 3306,
+    "left_count": 90,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "914": {
+    "left_track_id": 3308,
+    "left_count": 601,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "915": {
+    "left_track_id": 3309,
+    "left_count": 32,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "916": {
+    "left_track_id": 3310,
+    "left_count": 5,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "917": {
+    "left_track_id": 3311,
+    "left_count": 29,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "918": {
+    "left_track_id": 3312,
+    "left_count": 151,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "919": {
+    "left_track_id": 3313,
+    "left_count": 1007,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "920": {
+    "left_track_id": 3314,
+    "left_count": 554,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "921": {
+    "left_track_id": 3317,
+    "left_count": 9,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "922": {
+    "left_track_id": 3319,
+    "left_count": 28,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "923": {
+    "left_track_id": 3320,
+    "left_count": 84,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "924": {
+    "left_track_id": 3321,
+    "left_count": 13,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "925": {
+    "left_track_id": 3324,
+    "left_count": 135,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "926": {
+    "left_track_id": 3325,
+    "left_count": 461,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "927": {
+    "left_track_id": 3326,
+    "left_count": 35,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "928": {
+    "left_track_id": 3327,
+    "left_count": 1103,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "929": {
+    "left_track_id": 3328,
+    "left_count": 168,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "930": {
+    "left_track_id": 3338,
+    "left_count": 30,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "931": {
+    "left_track_id": 3341,
+    "left_count": 71,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "932": {
+    "left_track_id": 3344,
+    "left_count": 129,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "933": {
+    "left_track_id": 3346,
+    "left_count": 408,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "934": {
+    "left_track_id": 3349,
+    "left_count": 51,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "935": {
+    "left_track_id": 3351,
+    "left_count": 2,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "936": {
+    "left_track_id": 3355,
+    "left_count": 516,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "937": {
+    "left_track_id": 3360,
+    "left_count": 36,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "938": {
+    "left_track_id": 3361,
+    "left_count": 1567,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "939": {
+    "left_track_id": 3380,
+    "left_count": 357,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "940": {
+    "left_track_id": 3419,
+    "left_count": 1054,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "941": {
+    "left_track_id": 3420,
+    "left_count": 243,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "942": {
+    "left_track_id": 3421,
+    "left_count": 11,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "943": {
+    "left_track_id": 3422,
+    "left_count": 48,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "944": {
+    "left_track_id": 3445,
+    "left_count": 1097,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "945": {
+    "left_track_id": 3465,
+    "left_count": 543,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "946": {
+    "left_track_id": 3474,
+    "left_count": 5,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "947": {
+    "left_track_id": 3477,
+    "left_count": 131,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "948": {
+    "left_track_id": 3478,
+    "left_count": 150,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "949": {
+    "left_track_id": 3480,
+    "left_count": 200,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "950": {
+    "left_track_id": 3481,
+    "left_count": 54,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "951": {
+    "left_track_id": 3483,
+    "left_count": 316,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "952": {
+    "left_track_id": 3484,
+    "left_count": 8,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "953": {
+    "left_track_id": 3486,
+    "left_count": 230,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "954": {
+    "left_track_id": 3487,
+    "left_count": 218,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "955": {
+    "left_track_id": 3488,
+    "left_count": 208,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "956": {
+    "left_track_id": 3489,
+    "left_count": 35,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "957": {
+    "left_track_id": 3491,
+    "left_count": 85,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "958": {
+    "left_track_id": 3492,
+    "left_count": 26,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "959": {
+    "left_track_id": 3493,
+    "left_count": 20,
+    "right_track_id": null,
+    "right_count": 0
+  },
+  "960": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2,
+    "right_count": 4369
+  },
+  "961": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 12,
+    "right_count": 2234
+  },
+  "963": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 15,
+    "right_count": 37
+  },
+  "964": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 18,
+    "right_count": 138
+  },
+  "965": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 19,
+    "right_count": 172
+  },
+  "966": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 20,
+    "right_count": 35
+  },
+  "967": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 21,
+    "right_count": 75
+  },
+  "968": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 23,
+    "right_count": 37
+  },
+  "969": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 26,
+    "right_count": 23
+  },
+  "970": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 25,
+    "right_count": 60
+  },
+  "971": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 27,
+    "right_count": 114
+  },
+  "972": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 28,
+    "right_count": 26
+  },
+  "973": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 29,
+    "right_count": 13
+  },
+  "974": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 30,
+    "right_count": 138
+  },
+  "975": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 32,
+    "right_count": 11
+  },
+  "976": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 34,
+    "right_count": 134
+  },
+  "977": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 35,
+    "right_count": 391
+  },
+  "978": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 38,
+    "right_count": 90
+  },
+  "979": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 40,
+    "right_count": 5
+  },
+  "980": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 47,
+    "right_count": 17
+  },
+  "981": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 52,
+    "right_count": 99
+  },
+  "982": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 53,
+    "right_count": 1048
+  },
+  "983": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 54,
+    "right_count": 45
+  },
+  "984": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 60,
+    "right_count": 17
+  },
+  "985": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 62,
+    "right_count": 8
+  },
+  "986": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 64,
+    "right_count": 21
+  },
+  "987": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 65,
+    "right_count": 186
+  },
+  "988": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 67,
+    "right_count": 252
+  },
+  "989": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 68,
+    "right_count": 58
+  },
+  "990": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 84,
+    "right_count": 12
+  },
+  "991": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 85,
+    "right_count": 1
+  },
+  "992": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 90,
+    "right_count": 6
+  },
+  "993": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 114,
+    "right_count": 25
+  },
+  "994": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 122,
+    "right_count": 714
+  },
+  "995": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 133,
+    "right_count": 20
+  },
+  "996": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 134,
+    "right_count": 17
+  },
+  "997": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 136,
+    "right_count": 1858
+  },
+  "998": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 140,
+    "right_count": 11
+  },
+  "999": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 142,
+    "right_count": 1
+  },
+  "1000": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 143,
+    "right_count": 4
+  },
+  "1001": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 144,
+    "right_count": 340
+  },
+  "1002": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 146,
+    "right_count": 19
+  },
+  "1003": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 201,
+    "right_count": 13
+  },
+  "1004": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 205,
+    "right_count": 6
+  },
+  "1005": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 212,
+    "right_count": 44
+  },
+  "1006": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 213,
+    "right_count": 5
+  },
+  "1007": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 215,
+    "right_count": 4346
+  },
+  "1008": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 236,
+    "right_count": 2
+  },
+  "1009": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 237,
+    "right_count": 9
+  },
+  "1010": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 263,
+    "right_count": 1
+  },
+  "1011": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 295,
+    "right_count": 142
+  },
+  "1012": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 306,
+    "right_count": 79
+  },
+  "1013": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 321,
+    "right_count": 2
+  },
+  "1014": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 322,
+    "right_count": 38
+  },
+  "1015": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 323,
+    "right_count": 94
+  },
+  "1016": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 326,
+    "right_count": 31
+  },
+  "1017": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 327,
+    "right_count": 1077
+  },
+  "1018": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 329,
+    "right_count": 760
+  },
+  "1019": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 357,
+    "right_count": 194
+  },
+  "1020": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 359,
+    "right_count": 223
+  },
+  "1021": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 393,
+    "right_count": 15
+  },
+  "1022": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 435,
+    "right_count": 210
+  },
+  "1023": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 440,
+    "right_count": 5
+  },
+  "1024": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 570,
+    "right_count": 1
+  },
+  "1025": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 573,
+    "right_count": 41
+  },
+  "1026": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 578,
+    "right_count": 54
+  },
+  "1027": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 600,
+    "right_count": 97
+  },
+  "1028": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 610,
+    "right_count": 325
+  },
+  "1029": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 613,
+    "right_count": 84
+  },
+  "1030": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 617,
+    "right_count": 56
+  },
+  "1031": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 618,
+    "right_count": 243
+  },
+  "1032": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 621,
+    "right_count": 8
+  },
+  "1033": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 623,
+    "right_count": 25
+  },
+  "1034": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 624,
+    "right_count": 111
+  },
+  "1035": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 625,
+    "right_count": 74
+  },
+  "1036": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 626,
+    "right_count": 5
+  },
+  "1037": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 627,
+    "right_count": 29
+  },
+  "1038": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 628,
+    "right_count": 921
+  },
+  "1039": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 666,
+    "right_count": 8368
+  },
+  "1040": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 669,
+    "right_count": 1
+  },
+  "1041": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 673,
+    "right_count": 24
+  },
+  "1042": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 677,
+    "right_count": 8
+  },
+  "1043": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 685,
+    "right_count": 1
+  },
+  "1044": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 686,
+    "right_count": 12
+  },
+  "1045": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 751,
+    "right_count": 12
+  },
+  "1046": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 799,
+    "right_count": 1139
+  },
+  "1047": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 817,
+    "right_count": 977
+  },
+  "1048": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 847,
+    "right_count": 204
+  },
+  "1049": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 848,
+    "right_count": 3
+  },
+  "1050": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 850,
+    "right_count": 6
+  },
+  "1051": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 877,
+    "right_count": 6
+  },
+  "1052": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 926,
+    "right_count": 23
+  },
+  "1053": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 927,
+    "right_count": 26
+  },
+  "1054": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 963,
+    "right_count": 1
+  },
+  "1055": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1011,
+    "right_count": 9
+  },
+  "1056": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1018,
+    "right_count": 2
+  },
+  "1057": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1022,
+    "right_count": 2
+  },
+  "1058": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1048,
+    "right_count": 39
+  },
+  "1059": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1052,
+    "right_count": 7
+  },
+  "1060": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1053,
+    "right_count": 560
+  },
+  "1061": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1054,
+    "right_count": 321
+  },
+  "1062": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1055,
+    "right_count": 7
+  },
+  "1063": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1056,
+    "right_count": 27
+  },
+  "1064": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1078,
+    "right_count": 650
+  },
+  "1065": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1117,
+    "right_count": 56
+  },
+  "1066": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1181,
+    "right_count": 23
+  },
+  "1067": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1182,
+    "right_count": 4
+  },
+  "1068": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1184,
+    "right_count": 34
+  },
+  "1069": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1185,
+    "right_count": 918
+  },
+  "1070": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1189,
+    "right_count": 8
+  },
+  "1071": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1190,
+    "right_count": 610
+  },
+  "1072": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1191,
+    "right_count": 39
+  },
+  "1073": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1234,
+    "right_count": 1
+  },
+  "1074": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1283,
+    "right_count": 2
+  },
+  "1075": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1284,
+    "right_count": 290
+  },
+  "1076": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1286,
+    "right_count": 26
+  },
+  "1077": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1289,
+    "right_count": 42
+  },
+  "1078": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1291,
+    "right_count": 1419
+  },
+  "1079": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1295,
+    "right_count": 31
+  },
+  "1080": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1296,
+    "right_count": 1
+  },
+  "1081": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1297,
+    "right_count": 46
+  },
+  "1082": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1300,
+    "right_count": 37
+  },
+  "1083": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1302,
+    "right_count": 428
+  },
+  "1084": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1304,
+    "right_count": 645
+  },
+  "1085": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1305,
+    "right_count": 69
+  },
+  "1086": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1306,
+    "right_count": 210
+  },
+  "1087": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1308,
+    "right_count": 12
+  },
+  "1088": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1340,
+    "right_count": 15
+  },
+  "1089": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1342,
+    "right_count": 14
+  },
+  "1090": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1343,
+    "right_count": 78
+  },
+  "1091": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1346,
+    "right_count": 6
+  },
+  "1092": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1349,
+    "right_count": 309
+  },
+  "1093": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1352,
+    "right_count": 435
+  },
+  "1094": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1368,
+    "right_count": 1
+  },
+  "1095": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1381,
+    "right_count": 1
+  },
+  "1096": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1386,
+    "right_count": 14
+  },
+  "1097": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1402,
+    "right_count": 49
+  },
+  "1098": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1403,
+    "right_count": 102
+  },
+  "1099": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1434,
+    "right_count": 110
+  },
+  "1100": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1435,
+    "right_count": 4
+  },
+  "1101": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1437,
+    "right_count": 3
+  },
+  "1102": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1440,
+    "right_count": 217
+  },
+  "1103": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1475,
+    "right_count": 13
+  },
+  "1104": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1476,
+    "right_count": 579
+  },
+  "1105": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1478,
+    "right_count": 3
+  },
+  "1106": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1480,
+    "right_count": 10
+  },
+  "1107": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1482,
+    "right_count": 4
+  },
+  "1108": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1523,
+    "right_count": 20
+  },
+  "1109": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1524,
+    "right_count": 836
+  },
+  "1110": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1532,
+    "right_count": 150
+  },
+  "1111": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1541,
+    "right_count": 18
+  },
+  "1112": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1561,
+    "right_count": 27
+  },
+  "1113": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1572,
+    "right_count": 2
+  },
+  "1114": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1573,
+    "right_count": 1
+  },
+  "1115": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1603,
+    "right_count": 550
+  },
+  "1116": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1605,
+    "right_count": 3
+  },
+  "1117": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1606,
+    "right_count": 495
+  },
+  "1118": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1609,
+    "right_count": 7
+  },
+  "1119": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1610,
+    "right_count": 73
+  },
+  "1120": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1612,
+    "right_count": 38
+  },
+  "1121": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1615,
+    "right_count": 2
+  },
+  "1122": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1616,
+    "right_count": 14
+  },
+  "1123": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1617,
+    "right_count": 1
+  },
+  "1124": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1619,
+    "right_count": 11
+  },
+  "1125": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1622,
+    "right_count": 26
+  },
+  "1126": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1627,
+    "right_count": 127
+  },
+  "1127": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1634,
+    "right_count": 52
+  },
+  "1128": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1635,
+    "right_count": 16
+  },
+  "1129": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1636,
+    "right_count": 5
+  },
+  "1130": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1643,
+    "right_count": 385
+  },
+  "1131": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1674,
+    "right_count": 19
+  },
+  "1132": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1675,
+    "right_count": 242
+  },
+  "1133": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1688,
+    "right_count": 18
+  },
+  "1134": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1707,
+    "right_count": 2
+  },
+  "1135": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1709,
+    "right_count": 79
+  },
+  "1136": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1710,
+    "right_count": 216
+  },
+  "1137": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1716,
+    "right_count": 1
+  },
+  "1138": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1719,
+    "right_count": 143
+  },
+  "1139": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1727,
+    "right_count": 1
+  },
+  "1140": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1728,
+    "right_count": 1
+  },
+  "1141": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1731,
+    "right_count": 11
+  },
+  "1142": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1763,
+    "right_count": 19
+  },
+  "1143": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1787,
+    "right_count": 1
+  },
+  "1144": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1789,
+    "right_count": 13
+  },
+  "1145": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1794,
+    "right_count": 158
+  },
+  "1146": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1805,
+    "right_count": 11
+  },
+  "1147": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1822,
+    "right_count": 5
+  },
+  "1148": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1823,
+    "right_count": 3
+  },
+  "1149": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1855,
+    "right_count": 91
+  },
+  "1150": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1857,
+    "right_count": 1
+  },
+  "1151": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1859,
+    "right_count": 22
+  },
+  "1152": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1861,
+    "right_count": 134
+  },
+  "1153": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1863,
+    "right_count": 11
+  },
+  "1154": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1871,
+    "right_count": 1
+  },
+  "1155": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1873,
+    "right_count": 1
+  },
+  "1156": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1875,
+    "right_count": 44
+  },
+  "1157": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1876,
+    "right_count": 172
+  },
+  "1158": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1877,
+    "right_count": 1252
+  },
+  "1159": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1879,
+    "right_count": 72
+  },
+  "1160": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1881,
+    "right_count": 885
+  },
+  "1161": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1918,
+    "right_count": 1
+  },
+  "1162": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1919,
+    "right_count": 240
+  },
+  "1163": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1923,
+    "right_count": 2
+  },
+  "1164": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1929,
+    "right_count": 1
+  },
+  "1165": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1930,
+    "right_count": 8
+  },
+  "1166": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1931,
+    "right_count": 22
+  },
+  "1167": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1951,
+    "right_count": 12
+  },
+  "1168": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1953,
+    "right_count": 15
+  },
+  "1169": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 1954,
+    "right_count": 109
+  },
+  "1170": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2006,
+    "right_count": 2
+  },
+  "1171": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2007,
+    "right_count": 59
+  },
+  "1172": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2034,
+    "right_count": 644
+  },
+  "1173": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2044,
+    "right_count": 68
+  },
+  "1174": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2049,
+    "right_count": 2
+  },
+  "1175": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2051,
+    "right_count": 120
+  },
+  "1176": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2107,
+    "right_count": 181
+  },
+  "1177": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2128,
+    "right_count": 14
+  },
+  "1178": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2130,
+    "right_count": 49
+  },
+  "1179": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2131,
+    "right_count": 83
+  },
+  "1180": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2132,
+    "right_count": 144
+  },
+  "1181": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2136,
+    "right_count": 2604
+  },
+  "1182": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2137,
+    "right_count": 31
+  },
+  "1183": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2138,
+    "right_count": 247
+  },
+  "1184": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2141,
+    "right_count": 894
+  },
+  "1185": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2144,
+    "right_count": 26
+  },
+  "1186": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2146,
+    "right_count": 91
+  },
+  "1187": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2149,
+    "right_count": 46
+  },
+  "1188": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2152,
+    "right_count": 17
+  },
+  "1189": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2153,
+    "right_count": 1
+  },
+  "1190": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2154,
+    "right_count": 219
+  },
+  "1191": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2156,
+    "right_count": 22
+  },
+  "1192": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2158,
+    "right_count": 1184
+  },
+  "1193": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2160,
+    "right_count": 911
+  },
+  "1194": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2161,
+    "right_count": 111
+  },
+  "1195": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2162,
+    "right_count": 38
+  },
+  "1196": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2163,
+    "right_count": 13
+  },
+  "1197": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2164,
+    "right_count": 4
+  },
+  "1198": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2165,
+    "right_count": 3
+  },
+  "1199": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2166,
+    "right_count": 64
+  },
+  "1200": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2167,
+    "right_count": 608
+  },
+  "1201": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2169,
+    "right_count": 238
+  },
+  "1202": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2170,
+    "right_count": 5
+  },
+  "1203": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2171,
+    "right_count": 131
+  },
+  "1204": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2172,
+    "right_count": 14
+  },
+  "1205": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2175,
+    "right_count": 183
+  },
+  "1206": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2181,
+    "right_count": 99
+  },
+  "1207": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2182,
+    "right_count": 41
+  },
+  "1208": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2184,
+    "right_count": 6
+  },
+  "1209": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2185,
+    "right_count": 43
+  },
+  "1210": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2186,
+    "right_count": 4
+  },
+  "1211": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2187,
+    "right_count": 28
+  },
+  "1212": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2188,
+    "right_count": 151
+  },
+  "1213": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2189,
+    "right_count": 14
+  },
+  "1214": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2191,
+    "right_count": 4
+  },
+  "1215": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2192,
+    "right_count": 20
+  },
+  "1216": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2193,
+    "right_count": 50
+  },
+  "1217": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2194,
+    "right_count": 1
+  },
+  "1218": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2195,
+    "right_count": 351
+  },
+  "1219": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2197,
+    "right_count": 101
+  },
+  "1220": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2199,
+    "right_count": 49
+  },
+  "1221": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2200,
+    "right_count": 66
+  },
+  "1222": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2201,
+    "right_count": 88
+  },
+  "1223": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2203,
+    "right_count": 464
+  },
+  "1224": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2204,
+    "right_count": 14
+  },
+  "1225": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2205,
+    "right_count": 72
+  },
+  "1226": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2207,
+    "right_count": 1
+  },
+  "1227": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2208,
+    "right_count": 44
+  },
+  "1228": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2209,
+    "right_count": 115
+  },
+  "1229": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2210,
+    "right_count": 3
+  },
+  "1230": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2211,
+    "right_count": 215
+  },
+  "1231": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2212,
+    "right_count": 211
+  },
+  "1232": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2213,
+    "right_count": 318
+  },
+  "1233": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2214,
+    "right_count": 269
+  },
+  "1234": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2217,
+    "right_count": 36
+  },
+  "1235": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2218,
+    "right_count": 23
+  },
+  "1236": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2219,
+    "right_count": 73
+  },
+  "1237": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2221,
+    "right_count": 378
+  },
+  "1238": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2223,
+    "right_count": 97
+  },
+  "1239": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2225,
+    "right_count": 114
+  },
+  "1240": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2226,
+    "right_count": 10
+  },
+  "1241": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2227,
+    "right_count": 33
+  },
+  "1242": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2228,
+    "right_count": 31
+  },
+  "1243": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2230,
+    "right_count": 30
+  },
+  "1244": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2232,
+    "right_count": 43
+  },
+  "1245": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2233,
+    "right_count": 106
+  },
+  "1246": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2235,
+    "right_count": 1673
+  },
+  "1247": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2236,
+    "right_count": 24
+  },
+  "1248": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2237,
+    "right_count": 52
+  },
+  "1249": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2239,
+    "right_count": 20
+  },
+  "1250": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2240,
+    "right_count": 1
+  },
+  "1251": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2242,
+    "right_count": 66
+  },
+  "1252": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2244,
+    "right_count": 50
+  },
+  "1253": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2245,
+    "right_count": 6
+  },
+  "1254": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2246,
+    "right_count": 434
+  },
+  "1255": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2247,
+    "right_count": 171
+  },
+  "1256": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2248,
+    "right_count": 151
+  },
+  "1257": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2249,
+    "right_count": 5
+  },
+  "1258": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2250,
+    "right_count": 151
+  },
+  "1259": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2251,
+    "right_count": 54
+  },
+  "1260": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2254,
+    "right_count": 570
+  },
+  "1261": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2255,
+    "right_count": 12
+  },
+  "1262": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2256,
+    "right_count": 150
+  },
+  "1263": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2257,
+    "right_count": 73
+  },
+  "1264": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2258,
+    "right_count": 338
+  },
+  "1265": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2261,
+    "right_count": 27
+  },
+  "1266": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2262,
+    "right_count": 676
+  },
+  "1267": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2267,
+    "right_count": 597
+  },
+  "1268": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2270,
+    "right_count": 468
+  },
+  "1269": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2273,
+    "right_count": 368
+  },
+  "1270": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2274,
+    "right_count": 23
+  },
+  "1271": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2276,
+    "right_count": 183
+  },
+  "1272": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2278,
+    "right_count": 5
+  },
+  "1273": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2283,
+    "right_count": 316
+  },
+  "1274": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2286,
+    "right_count": 179
+  },
+  "1275": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2287,
+    "right_count": 25
+  },
+  "1276": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2308,
+    "right_count": 160
+  },
+  "1277": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2326,
+    "right_count": 7
+  },
+  "1278": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2327,
+    "right_count": 24
+  },
+  "1279": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2328,
+    "right_count": 86
+  },
+  "1280": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2331,
+    "right_count": 56
+  },
+  "1281": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2332,
+    "right_count": 168
+  },
+  "1282": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2333,
+    "right_count": 314
+  },
+  "1283": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2345,
+    "right_count": 203
+  },
+  "1284": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2368,
+    "right_count": 13
+  },
+  "1285": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2370,
+    "right_count": 11
+  },
+  "1286": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2377,
+    "right_count": 3
+  },
+  "1287": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2384,
+    "right_count": 48
+  },
+  "1288": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2385,
+    "right_count": 794
+  },
+  "1289": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2386,
+    "right_count": 1390
+  },
+  "1290": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2387,
+    "right_count": 57
+  },
+  "1291": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2388,
+    "right_count": 10
+  },
+  "1292": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2389,
+    "right_count": 791
+  },
+  "1293": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2390,
+    "right_count": 34
+  },
+  "1294": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2420,
+    "right_count": 1
+  },
+  "1295": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2421,
+    "right_count": 36
+  },
+  "1296": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2426,
+    "right_count": 1
+  },
+  "1297": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2430,
+    "right_count": 2
+  },
+  "1298": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2431,
+    "right_count": 412
+  },
+  "1299": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2444,
+    "right_count": 37
+  },
+  "1300": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2445,
+    "right_count": 517
+  },
+  "1301": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2446,
+    "right_count": 270
+  },
+  "1302": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2454,
+    "right_count": 4
+  },
+  "1303": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2456,
+    "right_count": 9
+  },
+  "1304": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2460,
+    "right_count": 432
+  },
+  "1305": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2463,
+    "right_count": 64
+  },
+  "1306": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2464,
+    "right_count": 725
+  },
+  "1307": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2465,
+    "right_count": 2
+  },
+  "1308": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2507,
+    "right_count": 596
+  },
+  "1309": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2578,
+    "right_count": 22
+  },
+  "1310": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2596,
+    "right_count": 4
+  },
+  "1311": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2612,
+    "right_count": 1
+  },
+  "1312": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2620,
+    "right_count": 6
+  },
+  "1313": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2621,
+    "right_count": 15
+  },
+  "1314": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2622,
+    "right_count": 361
+  },
+  "1315": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2624,
+    "right_count": 3
+  },
+  "1316": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2625,
+    "right_count": 21
+  },
+  "1317": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2692,
+    "right_count": 2
+  },
+  "1318": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2712,
+    "right_count": 61
+  },
+  "1319": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2734,
+    "right_count": 3
+  },
+  "1320": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2735,
+    "right_count": 182
+  },
+  "1321": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2748,
+    "right_count": 2
+  },
+  "1322": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2749,
+    "right_count": 29
+  },
+  "1323": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2797,
+    "right_count": 24
+  },
+  "1324": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2798,
+    "right_count": 255
+  },
+  "1325": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2799,
+    "right_count": 226
+  },
+  "1326": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2800,
+    "right_count": 16
+  },
+  "1327": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2802,
+    "right_count": 6
+  },
+  "1328": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2837,
+    "right_count": 14
+  },
+  "1329": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2838,
+    "right_count": 33
+  },
+  "1330": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2841,
+    "right_count": 197
+  },
+  "1331": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2842,
+    "right_count": 159
+  },
+  "1332": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2846,
+    "right_count": 532
+  },
+  "1333": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2851,
+    "right_count": 1
+  },
+  "1334": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2853,
+    "right_count": 833
+  },
+  "1335": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2863,
+    "right_count": 85
+  },
+  "1336": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2864,
+    "right_count": 13
+  },
+  "1337": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2865,
+    "right_count": 29
+  },
+  "1338": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2867,
+    "right_count": 1
+  },
+  "1339": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2868,
+    "right_count": 30
+  },
+  "1340": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2869,
+    "right_count": 218
+  },
+  "1341": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2870,
+    "right_count": 883
+  },
+  "1342": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2871,
+    "right_count": 184
+  },
+  "1343": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2874,
+    "right_count": 93
+  },
+  "1344": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2876,
+    "right_count": 167
+  },
+  "1345": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2878,
+    "right_count": 2
+  },
+  "1346": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2891,
+    "right_count": 3
+  },
+  "1347": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2892,
+    "right_count": 41
+  },
+  "1348": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2917,
+    "right_count": 11
+  },
+  "1349": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2919,
+    "right_count": 7
+  },
+  "1350": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2920,
+    "right_count": 685
+  },
+  "1351": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2925,
+    "right_count": 7
+  },
+  "1352": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2926,
+    "right_count": 1216
+  },
+  "1353": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2928,
+    "right_count": 24
+  },
+  "1354": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2930,
+    "right_count": 9
+  },
+  "1355": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2933,
+    "right_count": 2
+  },
+  "1356": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2950,
+    "right_count": 23
+  },
+  "1357": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 2959,
+    "right_count": 328
+  },
+  "1358": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3014,
+    "right_count": 77
+  },
+  "1359": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3024,
+    "right_count": 644
+  },
+  "1360": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3028,
+    "right_count": 351
+  },
+  "1361": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3029,
+    "right_count": 1682
+  },
+  "1362": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3031,
+    "right_count": 6
+  },
+  "1363": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3071,
+    "right_count": 114
+  },
+  "1364": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3080,
+    "right_count": 1
+  },
+  "1365": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3084,
+    "right_count": 597
+  },
+  "1366": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3092,
+    "right_count": 22
+  },
+  "1367": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3094,
+    "right_count": 105
+  },
+  "1368": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3095,
+    "right_count": 538
+  },
+  "1369": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3125,
+    "right_count": 37
+  },
+  "1370": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3128,
+    "right_count": 22
+  },
+  "1371": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3129,
+    "right_count": 7
+  },
+  "1372": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3131,
+    "right_count": 63
+  },
+  "1373": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3133,
+    "right_count": 28
+  },
+  "1374": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3135,
+    "right_count": 112
+  },
+  "1375": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3136,
+    "right_count": 18
+  },
+  "1376": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3137,
+    "right_count": 15
+  },
+  "1377": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3138,
+    "right_count": 85
+  },
+  "1378": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3139,
+    "right_count": 267
+  },
+  "1379": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3140,
+    "right_count": 24
+  },
+  "1380": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3146,
+    "right_count": 8
+  },
+  "1381": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3157,
+    "right_count": 38
+  },
+  "1382": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3159,
+    "right_count": 431
+  },
+  "1383": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3167,
+    "right_count": 3
+  },
+  "1384": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3178,
+    "right_count": 54
+  },
+  "1385": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3226,
+    "right_count": 25
+  },
+  "1386": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3227,
+    "right_count": 636
+  },
+  "1387": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3241,
+    "right_count": 24
+  },
+  "1388": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3276,
+    "right_count": 1311
+  },
+  "1389": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3277,
+    "right_count": 7
+  },
+  "1390": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3291,
+    "right_count": 2
+  },
+  "1391": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3294,
+    "right_count": 21
+  },
+  "1392": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3296,
+    "right_count": 47
+  },
+  "1393": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3300,
+    "right_count": 1
+  },
+  "1394": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3319,
+    "right_count": 3
+  },
+  "1395": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3321,
+    "right_count": 369
+  },
+  "1396": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3322,
+    "right_count": 219
+  },
+  "1397": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3323,
+    "right_count": 53
+  },
+  "1398": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3327,
+    "right_count": 3
+  },
+  "1399": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3336,
+    "right_count": 356
+  },
+  "1400": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3337,
+    "right_count": 33
+  },
+  "1401": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3339,
+    "right_count": 11
+  },
+  "1402": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3342,
+    "right_count": 74
+  },
+  "1403": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3343,
+    "right_count": 436
+  },
+  "1404": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3345,
+    "right_count": 94
+  },
+  "1405": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3347,
+    "right_count": 1149
+  },
+  "1406": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3349,
+    "right_count": 10
+  },
+  "1407": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3350,
+    "right_count": 61
+  },
+  "1408": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3351,
+    "right_count": 57
+  },
+  "1409": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3353,
+    "right_count": 61
+  },
+  "1410": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3355,
+    "right_count": 253
+  },
+  "1411": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3356,
+    "right_count": 43
+  },
+  "1412": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3357,
+    "right_count": 21
+  },
+  "1413": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3358,
+    "right_count": 569
+  },
+  "1414": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3390,
+    "right_count": 56
+  },
+  "1415": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3403,
+    "right_count": 1
+  },
+  "1416": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3412,
+    "right_count": 22
+  },
+  "1417": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3413,
+    "right_count": 36
+  },
+  "1418": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3414,
+    "right_count": 13
+  },
+  "1419": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3415,
+    "right_count": 48
+  },
+  "1420": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3416,
+    "right_count": 166
+  },
+  "1421": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3417,
+    "right_count": 111
+  },
+  "1422": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3418,
+    "right_count": 139
+  },
+  "1423": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3419,
+    "right_count": 216
+  },
+  "1424": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3420,
+    "right_count": 48
+  },
+  "1425": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3422,
+    "right_count": 3
+  },
+  "1426": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3425,
+    "right_count": 278
+  },
+  "1427": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3428,
+    "right_count": 130
+  },
+  "1428": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3429,
+    "right_count": 37
+  },
+  "1429": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3430,
+    "right_count": 70
+  },
+  "1430": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3455,
+    "right_count": 15
+  },
+  "1431": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3466,
+    "right_count": 183
+  },
+  "1432": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3469,
+    "right_count": 92
+  },
+  "1433": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3471,
+    "right_count": 29
+  },
+  "1434": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3472,
+    "right_count": 102
+  },
+  "1435": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3484,
+    "right_count": 229
+  },
+  "1436": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3497,
+    "right_count": 1
+  },
+  "1437": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3499,
+    "right_count": 734
+  },
+  "1438": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3502,
+    "right_count": 131
+  },
+  "1439": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3504,
+    "right_count": 9
+  },
+  "1440": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3505,
+    "right_count": 50
+  },
+  "1441": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3510,
+    "right_count": 129
+  },
+  "1442": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3516,
+    "right_count": 7
+  },
+  "1443": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3520,
+    "right_count": 5
+  },
+  "1444": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3523,
+    "right_count": 8
+  },
+  "1445": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3524,
+    "right_count": 27
+  },
+  "1446": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3525,
+    "right_count": 12
+  },
+  "1447": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3527,
+    "right_count": 1278
+  },
+  "1448": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3572,
+    "right_count": 7
+  },
+  "1449": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3574,
+    "right_count": 4
+  },
+  "1450": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3579,
+    "right_count": 6
+  },
+  "1451": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3581,
+    "right_count": 220
+  },
+  "1452": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3582,
+    "right_count": 49
+  },
+  "1453": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3586,
+    "right_count": 12
+  },
+  "1454": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3587,
+    "right_count": 11
+  },
+  "1455": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3589,
+    "right_count": 53
+  },
+  "1456": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3591,
+    "right_count": 365
+  },
+  "1457": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3592,
+    "right_count": 246
+  },
+  "1458": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3593,
+    "right_count": 166
+  },
+  "1459": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3595,
+    "right_count": 18
+  },
+  "1460": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3596,
+    "right_count": 67
+  },
+  "1461": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3599,
+    "right_count": 152
+  },
+  "1462": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3601,
+    "right_count": 416
+  },
+  "1463": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3607,
+    "right_count": 242
+  },
+  "1464": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3608,
+    "right_count": 34
+  },
+  "1465": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3611,
+    "right_count": 4
+  },
+  "1466": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3612,
+    "right_count": 31
+  },
+  "1467": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3618,
+    "right_count": 34
+  },
+  "1468": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3621,
+    "right_count": 59
+  },
+  "1469": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3622,
+    "right_count": 41
+  },
+  "1470": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3624,
+    "right_count": 49
+  },
+  "1471": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3627,
+    "right_count": 18
+  },
+  "1472": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3632,
+    "right_count": 36
+  },
+  "1473": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3636,
+    "right_count": 647
+  },
+  "1474": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3638,
+    "right_count": 40
+  },
+  "1475": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3648,
+    "right_count": 42
+  },
+  "1476": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3649,
+    "right_count": 215
+  },
+  "1477": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3706,
+    "right_count": 1217
+  },
+  "1478": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3707,
+    "right_count": 1
+  },
+  "1479": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3708,
+    "right_count": 73
+  },
+  "1480": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3710,
+    "right_count": 1577
+  },
+  "1481": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3711,
+    "right_count": 16
+  },
+  "1482": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3714,
+    "right_count": 115
+  },
+  "1483": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3715,
+    "right_count": 5
+  },
+  "1484": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3716,
+    "right_count": 7
+  },
+  "1485": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3717,
+    "right_count": 5
+  },
+  "1486": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3718,
+    "right_count": 11
+  },
+  "1487": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3720,
+    "right_count": 264
+  },
+  "1488": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3721,
+    "right_count": 32
+  },
+  "1489": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3740,
+    "right_count": 139
+  },
+  "1490": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3782,
+    "right_count": 731
+  },
+  "1491": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3789,
+    "right_count": 333
+  },
+  "1492": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3790,
+    "right_count": 339
+  },
+  "1493": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3791,
+    "right_count": 9
+  },
+  "1494": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3792,
+    "right_count": 137
+  },
+  "1495": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3793,
+    "right_count": 245
+  },
+  "1496": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3794,
+    "right_count": 155
+  },
+  "1497": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3796,
+    "right_count": 200
+  },
+  "1498": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3797,
+    "right_count": 443
+  },
+  "1499": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3798,
+    "right_count": 25
+  },
+  "1500": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3799,
+    "right_count": 302
+  },
+  "1501": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3800,
+    "right_count": 313
+  },
+  "1502": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3801,
+    "right_count": 88
+  },
+  "1503": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3804,
+    "right_count": 114
+  },
+  "1504": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3805,
+    "right_count": 192
+  },
+  "1505": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3806,
+    "right_count": 167
+  },
+  "1506": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3808,
+    "right_count": 59
+  },
+  "1507": {
+    "left_track_id": null,
+    "left_count": 0,
+    "right_track_id": 3809,
+    "right_count": 30
+  }
+}
